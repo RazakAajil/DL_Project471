@@ -1,6 +1,6 @@
 # A Closer Look at Skeleton-based Continuous Sign Language Recognition
 
-🏆 Official repository for A Closer Look at Skeleton-based Continuous Sign Language Recognition, the winner (1st place) in both the [Signer-Independent](https://codalab.lisn.upsaclay.fr/competitions/22899) and [Unseen Sentences](https://codalab.lisn.upsaclay.fr/competitions/22900) tasks of the ICCV 2025 [SignEval 2025: The First Multimodal Sign Language Recognition Challenge](https://multimodal-sign-language-recognition.github.io/ICCV-2025/). This implementation is largely built upon [the CoSign framework](https://openaccess.thecvf.com/content/ICCV2023/html/Jiao_CoSign_Exploring_Co-occurrence_Signals_in_Skeleton-based_Continuous_Sign_Language_Recognition_ICCV_2023_paper.html).
+🏆 Official repository for A Closer Look at Skeleton-based Continuous Sign Language Recognition, the winner (1st place) in both the [Signer-Independent](https://codalab.lisn.upsaclay.fr/competitions/22899) and [Unseen Sentences](https://codalab.lisn.upsaclay.fr/competitions/22900) tasks of the ICCV 2025 [SignEval 2025: The First Multimodal Sign Language Recognition Challenge](https://multimodal-sign-language-recognition.github.io/ICCV-2025/). This implementation is largely built upon [VAC](https://github.com/VIPL-SLP/VAC_CSLR) and [CoSign](https://openaccess.thecvf.com/content/ICCV2023/html/Jiao_CoSign_Exploring_Co-occurrence_Signals_in_Skeleton-based_Continuous_Sign_Language_Recognition_ICCV_2023_paper.html) frameworks.
 
 
 ## Prerequisites
@@ -76,11 +76,10 @@ If you find this repo useful in your research works, please consider citing:
 
 ```latex
 @inproceedings{min2025closer,
-title={A Closer Look at Skeleton-based Continuous Sign Language Recognition},
-author={Min, Yuecong and Yang, Yifan and Jiao, Peiqi and Nan, Zixi and Chen, Xilin},
-booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision Workshops},
-year={2025}
-
+  title={A Closer Look at Skeleton-based Continuous Sign Language Recognition},
+  author={Min, Yuecong and Yang, Yifan and Jiao, Peiqi and Nan, Zixi and Chen, Xilin},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision Workshops},
+  year={2025}
 }
 
 @inproceedings{jiao2023cosign,
