@@ -1,0 +1,5406 @@
+{
+    "id2gloss": {
+        "1": {
+            "gloss": "\u0627",
+            "frequency": 33
+        },
+        "2": {
+            "gloss": "\u0627\u0628",
+            "frequency": 494
+        },
+        "3": {
+            "gloss": "\u0627\u0628\u062a\u0633\u0627\u0645\u0647",
+            "frequency": 54
+        },
+        "4": {
+            "gloss": "\u0627\u0628\u0646",
+            "frequency": 351
+        },
+        "5": {
+            "gloss": "\u0627\u0628\u0647\u0627",
+            "frequency": 33
+        },
+        "6": {
+            "gloss": "\u0627\u0628\u064a\u0636",
+            "frequency": 77
+        },
+        "7": {
+            "gloss": "\u0627\u062a\u0635\u0627\u0644",
+            "frequency": 22
+        },
+        "8": {
+            "gloss": "\u0627\u062a\u0635\u0627\u0644\u0627\u062a",
+            "frequency": 33
+        },
+        "9": {
+            "gloss": "\u0627\u062a\u0642\u0627\u0646",
+            "frequency": 120
+        },
+        "10": {
+            "gloss": "\u0627\u062b\u0646\u0627\u0646",
+            "frequency": 64
+        },
+        "11": {
+            "gloss": "\u0627\u062b\u0646\u0627\u0646_\u062b\u0644\u0627\u062b\u0648\u0646",
+            "frequency": 11
+        },
+        "12": {
+            "gloss": "\u0627\u062b\u0646\u064a\u0646",
+            "frequency": 1
+        },
+        "13": {
+            "gloss": "\u0627\u062c\u0627\u0632\u0647",
+            "frequency": 99
+        },
+        "14": {
+            "gloss": "\u0627\u062c\u062a\u0645\u0627\u0639",
+            "frequency": 22
+        },
+        "15": {
+            "gloss": "\u0627\u062d\u062f_\u0639\u0634\u0631",
+            "frequency": 33
+        },
+        "16": {
+            "gloss": "\u0627\u062d\u0631\u0627\u0645",
+            "frequency": 22
+        },
+        "17": {
+            "gloss": "\u0627\u062d\u0645\u0631",
+            "frequency": 99
+        },
+        "18": {
+            "gloss": "\u0627\u062e",
+            "frequency": 825
+        },
+        "19": {
+            "gloss": "\u0627\u062e\u0628\u0627\u0631",
+            "frequency": 33
+        },
+        "20": {
+            "gloss": "\u0627\u062e\u0628\u0631\u0646\u064a",
+            "frequency": 11
+        },
+        "21": {
+            "gloss": "\u0627\u062e\u062a",
+            "frequency": 22
+        },
+        "22": {
+            "gloss": "\u0627\u062e\u062a\u0628\u0627\u0631",
+            "frequency": 55
+        },
+        "23": {
+            "gloss": "\u0627\u062e\u062a\u0641\u0627\u0621",
+            "frequency": 22
+        },
+        "24": {
+            "gloss": "\u0627\u062e\u062a\u064a\u0627\u0631",
+            "frequency": 44
+        },
+        "25": {
+            "gloss": "\u0627\u062e\u0630",
+            "frequency": 44
+        },
+        "26": {
+            "gloss": "\u0627\u062e\u0631",
+            "frequency": 66
+        },
+        "27": {
+            "gloss": "\u0627\u062e\u0636\u0631",
+            "frequency": 10
+        },
+        "28": {
+            "gloss": "\u0627\u0631\u0628\u0639",
+            "frequency": 44
+        },
+        "29": {
+            "gloss": "\u0627\u0631\u0628\u0639_\u0627\u0644\u0639\u0635\u0631",
+            "frequency": 11
+        },
+        "30": {
+            "gloss": "\u0627\u0631\u0628\u0639_\u0639\u0634\u0631",
+            "frequency": 11
+        },
+        "31": {
+            "gloss": "\u0627\u0631\u0628\u0639\u0648\u0646",
+            "frequency": 11
+        },
+        "32": {
+            "gloss": "\u0627\u0631\u0646\u0628",
+            "frequency": 11
+        },
+        "33": {
+            "gloss": "\u0627\u0631\u064a\u062f",
+            "frequency": 11
+        },
+        "34": {
+            "gloss": "\u0627\u0632\u062f\u062d\u0627\u0645",
+            "frequency": 21
+        },
+        "35": {
+            "gloss": "\u0627\u0632\u0631\u0642",
+            "frequency": 44
+        },
+        "36": {
+            "gloss": "\u0627\u0632\u0639\u0627\u062c",
+            "frequency": 33
+        },
+        "37": {
+            "gloss": "\u0627\u0633\u0627\u0628\u064a\u0639",
+            "frequency": 11
+        },
+        "38": {
+            "gloss": "\u0627\u0633\u0628\u0648\u0639",
+            "frequency": 44
+        },
+        "39": {
+            "gloss": "\u0627\u0633\u0628\u0648\u0639_\u0627\u0644\u0645\u0627\u0636\u064a",
+            "frequency": 11
+        },
+        "40": {
+            "gloss": "\u0627\u0633\u0628\u0648\u0639_\u0642\u0627\u062f\u0645",
+            "frequency": 22
+        },
+        "41": {
+            "gloss": "\u0627\u0633\u0628\u0648\u0639_\u0645\u0627\u0636\u064a",
+            "frequency": 22
+        },
+        "42": {
+            "gloss": "\u0627\u0633\u062a\u0626\u0630\u0627\u0646",
+            "frequency": 55
+        },
+        "43": {
+            "gloss": "\u0627\u0633\u062a\u0641\u0631\u0627\u063a",
+            "frequency": 22
+        },
+        "44": {
+            "gloss": "\u0627\u0633\u062a\u0641\u0647\u0627\u0645",
+            "frequency": 594
+        },
+        "45": {
+            "gloss": "\u0627\u0633\u062a\u064a\u0642\u0627\u0638",
+            "frequency": 88
+        },
+        "46": {
+            "gloss": "\u0627\u0633\u0631\u0647",
+            "frequency": 107
+        },
+        "47": {
+            "gloss": "\u0627\u0633\u0639\u0627\u0641",
+            "frequency": 21
+        },
+        "48": {
+            "gloss": "\u0627\u0633\u0641",
+            "frequency": 22
+        },
+        "49": {
+            "gloss": "\u0627\u0633\u0641\u0644",
+            "frequency": 10
+        },
+        "50": {
+            "gloss": "\u0627\u0633\u0645",
+            "frequency": 197
+        },
+        "51": {
+            "gloss": "\u0627\u0633\u0647\u0627\u0644",
+            "frequency": 22
+        },
+        "52": {
+            "gloss": "\u0627\u0633\u0648\u062f",
+            "frequency": 88
+        },
+        "53": {
+            "gloss": "\u0627\u0634\u0627\u0631\u0647",
+            "frequency": 220
+        },
+        "54": {
+            "gloss": "\u0627\u0634\u062e\u0627\u0635",
+            "frequency": 77
+        },
+        "55": {
+            "gloss": "\u0627\u0635\u0641\u0631",
+            "frequency": 77
+        },
+        "56": {
+            "gloss": "\u0627\u0635\u0644\u064a",
+            "frequency": 11
+        },
+        "57": {
+            "gloss": "\u0627\u0636\u0627\u0621\u0647",
+            "frequency": 11
+        },
+        "58": {
+            "gloss": "\u0627\u0636\u0627\u0641\u0647",
+            "frequency": 11
+        },
+        "59": {
+            "gloss": "\u0627\u0637\u0641\u0627\u0644",
+            "frequency": 22
+        },
+        "60": {
+            "gloss": "\u0627\u0639\u0627\u062f\u0647",
+            "frequency": 44
+        },
+        "61": {
+            "gloss": "\u0627\u0639\u0627\u0642\u0647",
+            "frequency": 33
+        },
+        "62": {
+            "gloss": "\u0627\u0639\u0637\u0627\u0621",
+            "frequency": 55
+        },
+        "63": {
+            "gloss": "\u0627\u0639\u0644\u0649",
+            "frequency": 11
+        },
+        "64": {
+            "gloss": "\u0627\u0641\u0631\u0627\u062c",
+            "frequency": 11
+        },
+        "65": {
+            "gloss": "\u0627\u0642\u0627\u0631\u0628",
+            "frequency": 44
+        },
+        "66": {
+            "gloss": "\u0627\u0643\u0644",
+            "frequency": 493
+        },
+        "67": {
+            "gloss": "\u0627\u0644",
+            "frequency": 44
+        },
+        "68": {
+            "gloss": "\u0627\u0644\u0627\u062b\u0646\u064a\u0646",
+            "frequency": 22
+        },
+        "69": {
+            "gloss": "\u0627\u0644\u0627\u062d\u062f",
+            "frequency": 11
+        },
+        "70": {
+            "gloss": "\u0627\u0644\u0627\u0631\u0628\u0639\u0627\u0621",
+            "frequency": 44
+        },
+        "71": {
+            "gloss": "\u0627\u0644\u0627\u0633\u0628\u0648\u0639_\u0627\u0644\u0645\u0627\u0636\u064a",
+            "frequency": 22
+        },
+        "72": {
+            "gloss": "\u0627\u0644\u0627\u0646",
+            "frequency": 631
+        },
+        "73": {
+            "gloss": "\u0627\u0644\u0628\u0627\u0642\u064a",
+            "frequency": 11
+        },
+        "74": {
+            "gloss": "\u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621",
+            "frequency": 44
+        },
+        "75": {
+            "gloss": "\u0627\u0644\u062c\u0645\u0639\u0647",
+            "frequency": 44
+        },
+        "76": {
+            "gloss": "\u0627\u0644\u062d\u0630\u0627\u0621",
+            "frequency": 11
+        },
+        "77": {
+            "gloss": "\u0627\u0644\u062d\u0645\u062f\u0644\u0644\u0647",
+            "frequency": 12
+        },
+        "78": {
+            "gloss": "\u0627\u0644\u062e\u0645\u064a\u0633",
+            "frequency": 33
+        },
+        "79": {
+            "gloss": "\u0627\u0644\u0631\u064a\u0627\u0636",
+            "frequency": 55
+        },
+        "80": {
+            "gloss": "\u0627\u0644\u0633\u0628\u062a",
+            "frequency": 44
+        },
+        "81": {
+            "gloss": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0647",
+            "frequency": 165
+        },
+        "82": {
+            "gloss": "\u0627\u0644\u0633\u0644\u0627\u0645_\u0639\u0644\u064a\u0643\u0645",
+            "frequency": 11
+        },
+        "83": {
+            "gloss": "\u0627\u0644\u0635\u0644\u0627\u0647",
+            "frequency": 21
+        },
+        "84": {
+            "gloss": "\u0627\u0644\u0635\u064a\u0646",
+            "frequency": 22
+        },
+        "85": {
+            "gloss": "\u0627\u0644\u0641",
+            "frequency": 11
+        },
+        "86": {
+            "gloss": "\u0627\u0644\u0644\u0647",
+            "frequency": 22
+        },
+        "87": {
+            "gloss": "\u0627\u0644\u0645",
+            "frequency": 88
+        },
+        "88": {
+            "gloss": "\u0627\u0644\u0645\u063a\u0631\u0628",
+            "frequency": 33
+        },
+        "89": {
+            "gloss": "\u0627\u0644\u064a\u0648\u0645",
+            "frequency": 1
+        },
+        "90": {
+            "gloss": "\u0627\u0645",
+            "frequency": 351
+        },
+        "91": {
+            "gloss": "\u0627\u0645\u0627\u0645",
+            "frequency": 44
+        },
+        "92": {
+            "gloss": "\u0627\u0645\u062a\u0644\u0627\u0621",
+            "frequency": 43
+        },
+        "93": {
+            "gloss": "\u0627\u0646",
+            "frequency": 21
+        },
+        "94": {
+            "gloss": "\u0627\u0646_\u0634\u0627\u0621_\u0627\u0644\u0644\u0647",
+            "frequency": 11
+        },
+        "95": {
+            "gloss": "\u0627\u0646_\u0634\u0627\u0621_\u0644\u0644\u0647",
+            "frequency": 11
+        },
+        "96": {
+            "gloss": "\u0627\u0646\u0627",
+            "frequency": 4100
+        },
+        "97": {
+            "gloss": "\u0627\u0646\u062a",
+            "frequency": 33
+        },
+        "98": {
+            "gloss": "\u0627\u0646\u062a\u0638\u0627\u0631",
+            "frequency": 44
+        },
+        "99": {
+            "gloss": "\u0627\u0646\u062a\u0647\u0627\u0621",
+            "frequency": 44
+        },
+        "100": {
+            "gloss": "\u0627\u0646\u062c\u0644\u064a\u0632\u064a\u0647",
+            "frequency": 22
+        },
+        "101": {
+            "gloss": "\u0627\u0646\u0633\u0627\u0646",
+            "frequency": 99
+        },
+        "102": {
+            "gloss": "\u0627\u0646\u0633\u062d\u0627\u0628",
+            "frequency": 66
+        },
+        "103": {
+            "gloss": "\u0627\u0646\u0641",
+            "frequency": 11
+        },
+        "104": {
+            "gloss": "\u0627\u0646\u0648\u0627\u0639",
+            "frequency": 110
+        },
+        "105": {
+            "gloss": "\u0627\u0648",
+            "frequency": 11
+        },
+        "106": {
+            "gloss": "\u0627\u0648\u0644",
+            "frequency": 11
+        },
+        "107": {
+            "gloss": "\u0627\u064a_\u0634\u064a",
+            "frequency": 11
+        },
+        "108": {
+            "gloss": "\u0627\u064a\u062c\u0627\u0631",
+            "frequency": 22
+        },
+        "109": {
+            "gloss": "\u0627\u064a\u0633_\u0643\u0631\u064a\u0645",
+            "frequency": 22
+        },
+        "110": {
+            "gloss": "\u0628",
+            "frequency": 44
+        },
+        "111": {
+            "gloss": "\u0628\u0627\u0628",
+            "frequency": 11
+        },
+        "112": {
+            "gloss": "\u0628\u0627\u0631\u062f",
+            "frequency": 11
+        },
+        "113": {
+            "gloss": "\u0628\u0627\u0635",
+            "frequency": 33
+        },
+        "114": {
+            "gloss": "\u0628\u062d\u062b",
+            "frequency": 66
+        },
+        "115": {
+            "gloss": "\u0628\u062d\u0631",
+            "frequency": 97
+        },
+        "116": {
+            "gloss": "\u0628\u062d\u0631\u0647\u0648",
+            "frequency": 1
+        },
+        "117": {
+            "gloss": "\u0628\u0631\u062f",
+            "frequency": 121
+        },
+        "118": {
+            "gloss": "\u0628\u0633\u0643\u0648\u062a",
+            "frequency": 33
+        },
+        "119": {
+            "gloss": "\u0628\u0637\u0627\u0642\u0647",
+            "frequency": 44
+        },
+        "120": {
+            "gloss": "\u0628\u0637\u0646",
+            "frequency": 99
+        },
+        "121": {
+            "gloss": "\u0628\u0639\u062f",
+            "frequency": 99
+        },
+        "122": {
+            "gloss": "\u0628\u0639\u064a\u062f",
+            "frequency": 22
+        },
+        "123": {
+            "gloss": "\u0628\u0642\u0627\u0644\u0647",
+            "frequency": 77
+        },
+        "124": {
+            "gloss": "\u0628\u0642\u0631\u0647",
+            "frequency": 77
+        },
+        "125": {
+            "gloss": "\u0628\u0643\u0627\u0621",
+            "frequency": 55
+        },
+        "126": {
+            "gloss": "\u0628\u0646\u0627\u0621",
+            "frequency": 22
+        },
+        "127": {
+            "gloss": "\u0628\u0646\u062a",
+            "frequency": 591
+        },
+        "128": {
+            "gloss": "\u0628\u0646\u0632\u064a\u0646",
+            "frequency": 22
+        },
+        "129": {
+            "gloss": "\u0628\u0646\u0637\u0627\u0644",
+            "frequency": 11
+        },
+        "130": {
+            "gloss": "\u0628\u0646\u0641\u0633\u062c\u064a",
+            "frequency": 33
+        },
+        "131": {
+            "gloss": "\u0628\u0646\u0643",
+            "frequency": 44
+        },
+        "132": {
+            "gloss": "\u0628\u0646\u064a",
+            "frequency": 44
+        },
+        "133": {
+            "gloss": "\u0628\u064a\u062a\u0632\u0627",
+            "frequency": 55
+        },
+        "134": {
+            "gloss": "\u0628\u064a\u0636",
+            "frequency": 55
+        },
+        "135": {
+            "gloss": "\u0628\u064a\u0639",
+            "frequency": 44
+        },
+        "136": {
+            "gloss": "\u062a",
+            "frequency": 76
+        },
+        "137": {
+            "gloss": "\u062a\u0627\u062c\u0631",
+            "frequency": 11
+        },
+        "138": {
+            "gloss": "\u062a\u0627\u062e\u064a\u0631",
+            "frequency": 22
+        },
+        "139": {
+            "gloss": "\u062a\u0627\u0631\u064a\u062e",
+            "frequency": 264
+        },
+        "140": {
+            "gloss": "\u062a\u0627\u0645\u064a\u0646",
+            "frequency": 33
+        },
+        "141": {
+            "gloss": "\u062a\u062c\u0627\u0631\u0647",
+            "frequency": 21
+        },
+        "142": {
+            "gloss": "\u062a\u062c\u0631\u0628\u0647",
+            "frequency": 11
+        },
+        "143": {
+            "gloss": "\u062a\u062c\u0646\u0628",
+            "frequency": 22
+        },
+        "144": {
+            "gloss": "\u062a\u062d\u062a",
+            "frequency": 33
+        },
+        "145": {
+            "gloss": "\u062a\u062d\u0648\u064a\u0644",
+            "frequency": 11
+        },
+        "146": {
+            "gloss": "\u062a\u062e\u0635\u0635",
+            "frequency": 11
+        },
+        "147": {
+            "gloss": "\u062a\u062e\u0641\u064a\u0636",
+            "frequency": 22
+        },
+        "148": {
+            "gloss": "\u062a\u062f\u062d\u0631\u062c",
+            "frequency": 11
+        },
+        "149": {
+            "gloss": "\u062a\u062f\u062e\u064a\u0646",
+            "frequency": 11
+        },
+        "150": {
+            "gloss": "\u062a\u062f\u0631\u064a\u0628",
+            "frequency": 33
+        },
+        "151": {
+            "gloss": "\u062a\u0630\u0643\u0631\u0647",
+            "frequency": 66
+        },
+        "152": {
+            "gloss": "\u062a\u0630\u0648\u0642",
+            "frequency": 21
+        },
+        "153": {
+            "gloss": "\u062a\u0631\u062a\u064a\u0628",
+            "frequency": 22
+        },
+        "154": {
+            "gloss": "\u062a\u0631\u062c\u0645\u0647",
+            "frequency": 55
+        },
+        "155": {
+            "gloss": "\u062a\u0631\u0641\u064a\u0647",
+            "frequency": 67
+        },
+        "156": {
+            "gloss": "\u062a\u0631\u0643\u064a\u0632",
+            "frequency": 22
+        },
+        "157": {
+            "gloss": "\u062a\u0633\u0627\u0642\u0637",
+            "frequency": 21
+        },
+        "158": {
+            "gloss": "\u062a\u0633\u0639",
+            "frequency": 33
+        },
+        "159": {
+            "gloss": "\u062a\u0635\u0644\u064a\u062d",
+            "frequency": 22
+        },
+        "160": {
+            "gloss": "\u062a\u0635\u0645\u064a\u0645",
+            "frequency": 11
+        },
+        "161": {
+            "gloss": "\u062a\u0635\u0648\u064a\u0631",
+            "frequency": 22
+        },
+        "162": {
+            "gloss": "\u062a\u0639\u0627\u0645\u0644",
+            "frequency": 22
+        },
+        "163": {
+            "gloss": "\u062a\u0639\u0628",
+            "frequency": 111
+        },
+        "164": {
+            "gloss": "\u062a\u0639\u062f\u0627\u062f",
+            "frequency": 11
+        },
+        "165": {
+            "gloss": "\u062a\u0639\u0644\u064a\u0642",
+            "frequency": 142
+        },
+        "166": {
+            "gloss": "\u062a\u0639\u0644\u064a\u0645",
+            "frequency": 44
+        },
+        "167": {
+            "gloss": "\u062a\u0639\u064a\u064a\u0646",
+            "frequency": 11
+        },
+        "168": {
+            "gloss": "\u062a\u0641\u0627\u062d\u0647",
+            "frequency": 121
+        },
+        "169": {
+            "gloss": "\u062a\u0641\u0627\u0635\u064a\u0644",
+            "frequency": 11
+        },
+        "170": {
+            "gloss": "\u062a\u0641\u0636\u0644",
+            "frequency": 66
+        },
+        "171": {
+            "gloss": "\u062a\u0642\u062f\u064a\u0645",
+            "frequency": 76
+        },
+        "172": {
+            "gloss": "\u062a\u0642\u0637\u064a\u0639",
+            "frequency": 66
+        },
+        "173": {
+            "gloss": "\u062a\u0642\u0644\u0628",
+            "frequency": 11
+        },
+        "174": {
+            "gloss": "\u062a\u0643\u0646\u064a\u0633",
+            "frequency": 11
+        },
+        "175": {
+            "gloss": "\u062a\u0644\u0641\u0627\u0632",
+            "frequency": 33
+        },
+        "176": {
+            "gloss": "\u062a\u0645\u0627\u0645",
+            "frequency": 11
+        },
+        "177": {
+            "gloss": "\u062a\u0646\u0628\u064a\u0647",
+            "frequency": 11
+        },
+        "178": {
+            "gloss": "\u062a\u0646\u0638\u064a\u0641_\u0627\u0633\u0646\u0627\u0646",
+            "frequency": 11
+        },
+        "179": {
+            "gloss": "\u062a\u0646\u0648\u0631\u0647",
+            "frequency": 11
+        },
+        "180": {
+            "gloss": "\u062a\u064a\u0634\u064a\u0631\u062a",
+            "frequency": 22
+        },
+        "181": {
+            "gloss": "\u062b\u0627\u0646\u0648\u064a",
+            "frequency": 22
+        },
+        "182": {
+            "gloss": "\u062b\u0627\u0646\u064a",
+            "frequency": 33
+        },
+        "183": {
+            "gloss": "\u062b\u0639\u0628\u0627\u0646",
+            "frequency": 44
+        },
+        "184": {
+            "gloss": "\u062b\u0642\u064a\u0644",
+            "frequency": 44
+        },
+        "185": {
+            "gloss": "\u062b\u0644\u0627\u062b",
+            "frequency": 101
+        },
+        "186": {
+            "gloss": "\u062b\u0644\u0627\u062b_\u0627\u0635\u0641\u0627\u0631",
+            "frequency": 11
+        },
+        "187": {
+            "gloss": "\u062b\u0644\u0627\u062b_\u0627\u064a\u0627\u0645",
+            "frequency": 11
+        },
+        "188": {
+            "gloss": "\u062b\u0644\u0627\u062b_\u0633\u0646\u0648\u0627\u062a",
+            "frequency": 21
+        },
+        "189": {
+            "gloss": "\u062b\u0644\u062c",
+            "frequency": 22
+        },
+        "190": {
+            "gloss": "\u062b\u0645\u0627\u0646_\u0633\u0627\u0639\u0627\u062a",
+            "frequency": 11
+        },
+        "191": {
+            "gloss": "\u062c",
+            "frequency": 11
+        },
+        "192": {
+            "gloss": "\u062c\u0627\u0631",
+            "frequency": 22
+        },
+        "193": {
+            "gloss": "\u062c\u0627\u0643\u064a\u062a",
+            "frequency": 22
+        },
+        "194": {
+            "gloss": "\u062c\u0627\u0645\u0639\u0647",
+            "frequency": 33
+        },
+        "195": {
+            "gloss": "\u062c\u0627\u0646\u0628",
+            "frequency": 11
+        },
+        "196": {
+            "gloss": "\u062c\u0628\u0644",
+            "frequency": 55
+        },
+        "197": {
+            "gloss": "\u062c\u062f",
+            "frequency": 285
+        },
+        "198": {
+            "gloss": "\u062c\u062f\u0627\u0631",
+            "frequency": 22
+        },
+        "199": {
+            "gloss": "\u062c\u062f\u064a\u0644\u0647",
+            "frequency": 22
+        },
+        "200": {
+            "gloss": "\u062c\u0631\u0633",
+            "frequency": 33
+        },
+        "201": {
+            "gloss": "\u062c\u0631\u064a",
+            "frequency": 22
+        },
+        "202": {
+            "gloss": "\u062c\u0632\u0631",
+            "frequency": 11
+        },
+        "203": {
+            "gloss": "\u062c\u0633\u0645",
+            "frequency": 55
+        },
+        "204": {
+            "gloss": "\u062c\u0645\u0639\u064a\u0647",
+            "frequency": 22
+        },
+        "205": {
+            "gloss": "\u062c\u0645\u064a\u0639",
+            "frequency": 176
+        },
+        "206": {
+            "gloss": "\u062c\u0645\u064a\u0644",
+            "frequency": 154
+        },
+        "207": {
+            "gloss": "\u062c\u0647\u0644",
+            "frequency": 11
+        },
+        "208": {
+            "gloss": "\u062c\u0648",
+            "frequency": 22
+        },
+        "209": {
+            "gloss": "\u062c\u0648\u0627\u0628",
+            "frequency": 11
+        },
+        "210": {
+            "gloss": "\u062c\u0648\u0627\u0632",
+            "frequency": 66
+        },
+        "211": {
+            "gloss": "\u062c\u0648\u0627\u0632_\u0633\u0641\u0631",
+            "frequency": 11
+        },
+        "212": {
+            "gloss": "\u062c\u0648\u0627\u0644",
+            "frequency": 22
+        },
+        "213": {
+            "gloss": "\u062c\u0648\u0639",
+            "frequency": 55
+        },
+        "214": {
+            "gloss": "\u062c\u064a\u062f",
+            "frequency": 58
+        },
+        "215": {
+            "gloss": "\u062d",
+            "frequency": 11
+        },
+        "216": {
+            "gloss": "\u062d\u0627\u062f\u062b",
+            "frequency": 44
+        },
+        "217": {
+            "gloss": "\u062d\u0627\u0631",
+            "frequency": 32
+        },
+        "218": {
+            "gloss": "\u062d\u0627\u0633\u0628",
+            "frequency": 55
+        },
+        "219": {
+            "gloss": "\u062d\u0627\u0641\u0644\u0647",
+            "frequency": 44
+        },
+        "220": {
+            "gloss": "\u062d\u0627\u0644",
+            "frequency": 22
+        },
+        "221": {
+            "gloss": "\u062d\u0628",
+            "frequency": 660
+        },
+        "222": {
+            "gloss": "\u062d\u0628\u0647",
+            "frequency": 43
+        },
+        "223": {
+            "gloss": "\u062d\u062c",
+            "frequency": 33
+        },
+        "224": {
+            "gloss": "\u062d\u062f\u0627\u062f",
+            "frequency": 22
+        },
+        "225": {
+            "gloss": "\u062d\u062f\u0627\u062f\u0647",
+            "frequency": 11
+        },
+        "226": {
+            "gloss": "\u062d\u062f\u064a\u062f",
+            "frequency": 33
+        },
+        "227": {
+            "gloss": "\u062d\u062f\u064a\u0642\u0647",
+            "frequency": 77
+        },
+        "228": {
+            "gloss": "\u062d\u0630\u0627\u0621",
+            "frequency": 97
+        },
+        "229": {
+            "gloss": "\u062d\u0632\u0646",
+            "frequency": 22
+        },
+        "230": {
+            "gloss": "\u062d\u0632\u064a\u0646",
+            "frequency": 22
+        },
+        "231": {
+            "gloss": "\u062d\u0633\u0627\u0628",
+            "frequency": 11
+        },
+        "232": {
+            "gloss": "\u062d\u0636\u0648\u0631",
+            "frequency": 11
+        },
+        "233": {
+            "gloss": "\u062d\u0641\u0638",
+            "frequency": 33
+        },
+        "234": {
+            "gloss": "\u062d\u0641\u0644",
+            "frequency": 44
+        },
+        "235": {
+            "gloss": "\u062d\u0641\u064a\u062f",
+            "frequency": 33
+        },
+        "236": {
+            "gloss": "\u062d\u0642",
+            "frequency": 22
+        },
+        "237": {
+            "gloss": "\u062d\u0642\u064a\u0628\u0647_\u0638\u0647\u0631",
+            "frequency": 33
+        },
+        "238": {
+            "gloss": "\u062d\u0642\u064a\u0628\u0647_\u064a\u062f",
+            "frequency": 77
+        },
+        "239": {
+            "gloss": "\u062d\u0644\u0648",
+            "frequency": 22
+        },
+        "240": {
+            "gloss": "\u062d\u0645\u0627\u0645",
+            "frequency": 11
+        },
+        "241": {
+            "gloss": "\u062d\u0645\u0627\u064a\u0647",
+            "frequency": 44
+        },
+        "242": {
+            "gloss": "\u062d\u0645\u0635",
+            "frequency": 33
+        },
+        "243": {
+            "gloss": "\u062d\u0645\u0649",
+            "frequency": 22
+        },
+        "244": {
+            "gloss": "\u062d\u0648\u0636",
+            "frequency": 11
+        },
+        "245": {
+            "gloss": "\u062e",
+            "frequency": 22
+        },
+        "246": {
+            "gloss": "\u062e\u0627\u0631\u062c",
+            "frequency": 11
+        },
+        "247": {
+            "gloss": "\u062e\u0627\u0635",
+            "frequency": 55
+        },
+        "248": {
+            "gloss": "\u062e\u0627\u0644",
+            "frequency": 88
+        },
+        "249": {
+            "gloss": "\u062e\u0628\u0631\u0647",
+            "frequency": 22
+        },
+        "250": {
+            "gloss": "\u062e\u0628\u0632",
+            "frequency": 22
+        },
+        "251": {
+            "gloss": "\u062e\u0628\u064a\u0631",
+            "frequency": 22
+        },
+        "252": {
+            "gloss": "\u062e\u062f\u0645\u0647",
+            "frequency": 44
+        },
+        "253": {
+            "gloss": "\u062e\u0632\u0627\u0646\u0647",
+            "frequency": 110
+        },
+        "254": {
+            "gloss": "\u062e\u0633",
+            "frequency": 11
+        },
+        "255": {
+            "gloss": "\u062e\u0636\u0627\u0631",
+            "frequency": 11
+        },
+        "256": {
+            "gloss": "\u062e\u0637\u0631",
+            "frequency": 33
+        },
+        "257": {
+            "gloss": "\u062e\u0637\u0647",
+            "frequency": 11
+        },
+        "258": {
+            "gloss": "\u062e\u0637\u0648\u0627\u062a",
+            "frequency": 11
+        },
+        "259": {
+            "gloss": "\u062e\u0641\u064a\u0641",
+            "frequency": 44
+        },
+        "260": {
+            "gloss": "\u062e\u0644\u0627\u0635",
+            "frequency": 22
+        },
+        "261": {
+            "gloss": "\u062e\u0644\u0637",
+            "frequency": 175
+        },
+        "262": {
+            "gloss": "\u062e\u0644\u0641",
+            "frequency": 33
+        },
+        "263": {
+            "gloss": "\u062e\u0645\u0633",
+            "frequency": 65
+        },
+        "264": {
+            "gloss": "\u062e\u0645\u0633\u0648\u0646",
+            "frequency": 22
+        },
+        "265": {
+            "gloss": "\u062e\u0648\u0641",
+            "frequency": 176
+        },
+        "266": {
+            "gloss": "\u062e\u064a\u0627\u0637\u0647",
+            "frequency": 33
+        },
+        "267": {
+            "gloss": "\u062e\u064a\u0631",
+            "frequency": 55
+        },
+        "268": {
+            "gloss": "\u062f",
+            "frequency": 176
+        },
+        "269": {
+            "gloss": "\u062f\u0627\u062e\u0644",
+            "frequency": 109
+        },
+        "270": {
+            "gloss": "\u062f\u062c\u0627\u062c",
+            "frequency": 77
+        },
+        "271": {
+            "gloss": "\u062f\u062e\u0627\u0646",
+            "frequency": 55
+        },
+        "272": {
+            "gloss": "\u062f\u062e\u0644",
+            "frequency": 11
+        },
+        "273": {
+            "gloss": "\u062f\u062e\u0648\u0644",
+            "frequency": 55
+        },
+        "274": {
+            "gloss": "\u062f\u0631\u0627\u062c\u0647",
+            "frequency": 77
+        },
+        "275": {
+            "gloss": "\u062f\u0631\u0627\u062c\u0647_\u0646\u0627\u0631\u064a\u0647",
+            "frequency": 22
+        },
+        "276": {
+            "gloss": "\u062f\u0639\u0645",
+            "frequency": 22
+        },
+        "277": {
+            "gloss": "\u062f\u0639\u0648\u0647",
+            "frequency": 88
+        },
+        "278": {
+            "gloss": "\u062f\u0641\u0639",
+            "frequency": 55
+        },
+        "279": {
+            "gloss": "\u062f\u0642_\u0627\u0644\u0628\u0627\u0628",
+            "frequency": 11
+        },
+        "280": {
+            "gloss": "\u062f\u0645",
+            "frequency": 22
+        },
+        "281": {
+            "gloss": "\u062f\u0647\u0646",
+            "frequency": 11
+        },
+        "282": {
+            "gloss": "\u062f\u0648\u0627\u0621",
+            "frequency": 44
+        },
+        "283": {
+            "gloss": "\u062f\u0648\u062e\u0647",
+            "frequency": 11
+        },
+        "284": {
+            "gloss": "\u062f\u0648\u0631\u0647",
+            "frequency": 22
+        },
+        "285": {
+            "gloss": "\u0630\u0627\u0643\u0631\u0647",
+            "frequency": 11
+        },
+        "286": {
+            "gloss": "\u0630\u0628\u062d",
+            "frequency": 33
+        },
+        "287": {
+            "gloss": "\u0630\u0643\u064a",
+            "frequency": 44
+        },
+        "288": {
+            "gloss": "\u0630\u0647\u0627\u0628",
+            "frequency": 668
+        },
+        "289": {
+            "gloss": "\u0630\u0647\u0628\u064a",
+            "frequency": 44
+        },
+        "290": {
+            "gloss": "\u0630\u0648\u0628\u0627\u0646",
+            "frequency": 22
+        },
+        "291": {
+            "gloss": "\u0631",
+            "frequency": 43
+        },
+        "292": {
+            "gloss": "\u0631\u0626\u064a\u0633",
+            "frequency": 44
+        },
+        "293": {
+            "gloss": "\u0631\u0627\u062a\u0628",
+            "frequency": 21
+        },
+        "294": {
+            "gloss": "\u0631\u0627\u062d\u0647",
+            "frequency": 33
+        },
+        "295": {
+            "gloss": "\u0631\u0627\u0633",
+            "frequency": 22
+        },
+        "296": {
+            "gloss": "\u0631\u0628\u0639",
+            "frequency": 22
+        },
+        "297": {
+            "gloss": "\u0631\u062c\u0648\u0639",
+            "frequency": 1
+        },
+        "298": {
+            "gloss": "\u0631\u062d\u0644\u0647",
+            "frequency": 11
+        },
+        "299": {
+            "gloss": "\u0631\u062d\u0645\u0647",
+            "frequency": 54
+        },
+        "300": {
+            "gloss": "\u0631\u062e\u0635\u0647",
+            "frequency": 22
+        },
+        "301": {
+            "gloss": "\u0631\u062e\u064a\u0635",
+            "frequency": 32
+        },
+        "302": {
+            "gloss": "\u0631\u0632",
+            "frequency": 88
+        },
+        "303": {
+            "gloss": "\u0631\u0633\u0645",
+            "frequency": 77
+        },
+        "304": {
+            "gloss": "\u0631\u0633\u0645\u064a",
+            "frequency": 11
+        },
+        "305": {
+            "gloss": "\u0631\u063a\u0628\u0647",
+            "frequency": 1042
+        },
+        "306": {
+            "gloss": "\u0631\u0642\u0645",
+            "frequency": 285
+        },
+        "307": {
+            "gloss": "\u0631\u0643\u0636",
+            "frequency": 11
+        },
+        "308": {
+            "gloss": "\u0631\u0643\u0648\u0628",
+            "frequency": 11
+        },
+        "309": {
+            "gloss": "\u0631\u0645\u0627\u062f\u064a",
+            "frequency": 44
+        },
+        "310": {
+            "gloss": "\u0631\u0645\u0627\u064a\u0647",
+            "frequency": 22
+        },
+        "311": {
+            "gloss": "\u0631\u0645\u0636\u0627\u0646",
+            "frequency": 22
+        },
+        "312": {
+            "gloss": "\u0631\u0645\u064a",
+            "frequency": 11
+        },
+        "313": {
+            "gloss": "\u0631\u064a",
+            "frequency": 33
+        },
+        "314": {
+            "gloss": "\u0631\u064a\u0627\u0636\u0647",
+            "frequency": 55
+        },
+        "315": {
+            "gloss": "\u0632",
+            "frequency": 33
+        },
+        "316": {
+            "gloss": "\u0632\u0639\u0644",
+            "frequency": 22
+        },
+        "317": {
+            "gloss": "\u0632\u0643\u0627\u0645",
+            "frequency": 33
+        },
+        "318": {
+            "gloss": "\u0632\u0647\u0631\u0647",
+            "frequency": 110
+        },
+        "319": {
+            "gloss": "\u0632\u0648\u0627\u062c",
+            "frequency": 87
+        },
+        "320": {
+            "gloss": "\u0632\u0648\u062c",
+            "frequency": 133
+        },
+        "321": {
+            "gloss": "\u0632\u064a\u0627\u062f\u0647",
+            "frequency": 55
+        },
+        "322": {
+            "gloss": "\u0632\u064a\u0627\u0631\u0647",
+            "frequency": 110
+        },
+        "323": {
+            "gloss": "\u0632\u064a\u062a\u0648\u0646",
+            "frequency": 11
+        },
+        "324": {
+            "gloss": "\u0633",
+            "frequency": 44
+        },
+        "325": {
+            "gloss": "\u0633\u0627\u0639\u0647",
+            "frequency": 44
+        },
+        "326": {
+            "gloss": "\u0633\u0627\u0645\u0639",
+            "frequency": 11
+        },
+        "327": {
+            "gloss": "\u0633\u0628\u0627\u062d\u0647",
+            "frequency": 44
+        },
+        "328": {
+            "gloss": "\u0633\u0628\u0628",
+            "frequency": 447
+        },
+        "329": {
+            "gloss": "\u0633\u0628\u0639",
+            "frequency": 22
+        },
+        "330": {
+            "gloss": "\u0633\u0628\u0639\u0647",
+            "frequency": 22
+        },
+        "331": {
+            "gloss": "\u0633\u062a",
+            "frequency": 11
+        },
+        "332": {
+            "gloss": "\u0633\u062c\u0646",
+            "frequency": 44
+        },
+        "333": {
+            "gloss": "\u0633\u0631\u0639\u0647",
+            "frequency": 55
+        },
+        "334": {
+            "gloss": "\u0633\u0631\u0642",
+            "frequency": 11
+        },
+        "335": {
+            "gloss": "\u0633\u0631\u0642\u0647",
+            "frequency": 33
+        },
+        "336": {
+            "gloss": "\u0633\u0631\u064a\u0631",
+            "frequency": 33
+        },
+        "337": {
+            "gloss": "\u0633\u0631\u064a\u0639",
+            "frequency": 11
+        },
+        "338": {
+            "gloss": "\u0633\u0639\u0648\u062f\u064a\u0647",
+            "frequency": 11
+        },
+        "339": {
+            "gloss": "\u0633\u0639\u064a\u062f",
+            "frequency": 252
+        },
+        "340": {
+            "gloss": "\u0633\u0641\u0631",
+            "frequency": 44
+        },
+        "341": {
+            "gloss": "\u0633\u0642\u0648\u0637",
+            "frequency": 11
+        },
+        "342": {
+            "gloss": "\u0633\u0643\u0628",
+            "frequency": 11
+        },
+        "343": {
+            "gloss": "\u0633\u0643\u0631",
+            "frequency": 22
+        },
+        "344": {
+            "gloss": "\u0633\u0644\u0637\u0647",
+            "frequency": 22
+        },
+        "345": {
+            "gloss": "\u0633\u0644\u0647",
+            "frequency": 11
+        },
+        "346": {
+            "gloss": "\u0633\u0645\u0639",
+            "frequency": 55
+        },
+        "347": {
+            "gloss": "\u0633\u0645\u0643",
+            "frequency": 1
+        },
+        "348": {
+            "gloss": "\u0633\u0645\u0643\u0647",
+            "frequency": 65
+        },
+        "349": {
+            "gloss": "\u0633\u0646",
+            "frequency": 218
+        },
+        "350": {
+            "gloss": "\u0633\u0646\u0647",
+            "frequency": 12
+        },
+        "351": {
+            "gloss": "\u0633\u0647\u0644",
+            "frequency": 11
+        },
+        "352": {
+            "gloss": "\u0633\u0648\u0627\u0644",
+            "frequency": 1446
+        },
+        "353": {
+            "gloss": "\u0633\u0648\u0642",
+            "frequency": 11
+        },
+        "354": {
+            "gloss": "\u0633\u064a\u0626",
+            "frequency": 11
+        },
+        "355": {
+            "gloss": "\u0633\u064a\u0627\u062d\u0647",
+            "frequency": 66
+        },
+        "356": {
+            "gloss": "\u0633\u064a\u0627\u0631\u0647",
+            "frequency": 187
+        },
+        "357": {
+            "gloss": "\u0633\u064a\u062c\u0627\u0631\u0647",
+            "frequency": 1
+        },
+        "358": {
+            "gloss": "\u0633\u064a\u0646\u0645\u0627",
+            "frequency": 99
+        },
+        "359": {
+            "gloss": "\u0634\u0627\u0628",
+            "frequency": 10
+        },
+        "360": {
+            "gloss": "\u0634\u0627\u0634\u0647",
+            "frequency": 11
+        },
+        "361": {
+            "gloss": "\u0634\u0627\u064a",
+            "frequency": 77
+        },
+        "362": {
+            "gloss": "\u0634\u0628\u0627\u0628",
+            "frequency": 22
+        },
+        "363": {
+            "gloss": "\u0634\u062c\u0631",
+            "frequency": 22
+        },
+        "364": {
+            "gloss": "\u0634\u062e\u0635",
+            "frequency": 374
+        },
+        "365": {
+            "gloss": "\u0634\u062f\u064a\u062f",
+            "frequency": 11
+        },
+        "366": {
+            "gloss": "\u0634\u0631\u0627\u0621",
+            "frequency": 395
+        },
+        "367": {
+            "gloss": "\u0634\u0631\u0628",
+            "frequency": 154
+        },
+        "368": {
+            "gloss": "\u0634\u0631\u0637\u0647",
+            "frequency": 99
+        },
+        "369": {
+            "gloss": "\u0634\u0631\u0643\u0647",
+            "frequency": 54
+        },
+        "370": {
+            "gloss": "\u0634\u0639\u0627\u0631",
+            "frequency": 11
+        },
+        "371": {
+            "gloss": "\u0634\u0639\u0628",
+            "frequency": 11
+        },
+        "372": {
+            "gloss": "\u0634\u0639\u0631",
+            "frequency": 22
+        },
+        "373": {
+            "gloss": "\u0634\u0639\u0648\u0631",
+            "frequency": 11
+        },
+        "374": {
+            "gloss": "\u0634\u0643\u0631",
+            "frequency": 33
+        },
+        "375": {
+            "gloss": "\u0634\u0643\u0648\u0649",
+            "frequency": 22
+        },
+        "376": {
+            "gloss": "\u0634\u0645\u0627\u063a",
+            "frequency": 11
+        },
+        "377": {
+            "gloss": "\u0634\u0645\u0633",
+            "frequency": 33
+        },
+        "378": {
+            "gloss": "\u0634\u0647\u0627\u062f\u0647",
+            "frequency": 64
+        },
+        "379": {
+            "gloss": "\u0634\u0647\u0631",
+            "frequency": 87
+        },
+        "380": {
+            "gloss": "\u0634\u0648\u0627\u0621",
+            "frequency": 32
+        },
+        "381": {
+            "gloss": "\u0634\u0648\u0631\u0628\u0647",
+            "frequency": 22
+        },
+        "382": {
+            "gloss": "\u0634\u0648\u0643\u0648\u0644\u0627\u062a\u0647",
+            "frequency": 88
+        },
+        "383": {
+            "gloss": "\u0634\u0648\u064a",
+            "frequency": 11
+        },
+        "384": {
+            "gloss": "\u0635\u0628\u0627\u062d",
+            "frequency": 330
+        },
+        "385": {
+            "gloss": "\u0635\u0628\u063a",
+            "frequency": 44
+        },
+        "386": {
+            "gloss": "\u0635\u062d",
+            "frequency": 11
+        },
+        "387": {
+            "gloss": "\u0635\u062d\u0646",
+            "frequency": 11
+        },
+        "388": {
+            "gloss": "\u0635\u062d\u0647",
+            "frequency": 66
+        },
+        "389": {
+            "gloss": "\u0635\u062e\u0631",
+            "frequency": 11
+        },
+        "390": {
+            "gloss": "\u0635\u062e\u0631\u0647",
+            "frequency": 11
+        },
+        "391": {
+            "gloss": "\u0635\u062f\u0631",
+            "frequency": 33
+        },
+        "392": {
+            "gloss": "\u0635\u062f\u0642",
+            "frequency": 33
+        },
+        "393": {
+            "gloss": "\u0635\u062f\u0642\u0647",
+            "frequency": 22
+        },
+        "394": {
+            "gloss": "\u0635\u062f\u064a\u0642",
+            "frequency": 264
+        },
+        "395": {
+            "gloss": "\u0635\u0631\u0627\u062e",
+            "frequency": 11
+        },
+        "396": {
+            "gloss": "\u0635\u0639\u0628",
+            "frequency": 20
+        },
+        "397": {
+            "gloss": "\u0635\u0639\u0648\u062f",
+            "frequency": 33
+        },
+        "398": {
+            "gloss": "\u0635\u063a\u064a\u0631",
+            "frequency": 131
+        },
+        "399": {
+            "gloss": "\u0635\u0641\u062d\u0647",
+            "frequency": 11
+        },
+        "400": {
+            "gloss": "\u0635\u0641\u0647",
+            "frequency": 11
+        },
+        "401": {
+            "gloss": "\u0635\u0644\u0627\u0647",
+            "frequency": 99
+        },
+        "402": {
+            "gloss": "\u0635\u0645",
+            "frequency": 232
+        },
+        "403": {
+            "gloss": "\u0635\u0648\u062a",
+            "frequency": 22
+        },
+        "404": {
+            "gloss": "\u0635\u0648\u062a_\u062c\u0631\u0633",
+            "frequency": 1
+        },
+        "405": {
+            "gloss": "\u0635\u0648\u0631\u0647",
+            "frequency": 77
+        },
+        "406": {
+            "gloss": "\u0635\u064a\u062f",
+            "frequency": 33
+        },
+        "407": {
+            "gloss": "\u0635\u064a\u062f\u0644\u064a\u0647",
+            "frequency": 33
+        },
+        "408": {
+            "gloss": "\u0635\u064a\u0641",
+            "frequency": 165
+        },
+        "409": {
+            "gloss": "\u0635\u064a\u0646",
+            "frequency": 11
+        },
+        "410": {
+            "gloss": "\u0636\u0628\u0627\u0628",
+            "frequency": 22
+        },
+        "411": {
+            "gloss": "\u0636\u0628\u0637",
+            "frequency": 11
+        },
+        "412": {
+            "gloss": "\u0636\u0631\u0628",
+            "frequency": 23
+        },
+        "413": {
+            "gloss": "\u0636\u063a\u0637",
+            "frequency": 11
+        },
+        "414": {
+            "gloss": "\u0636\u064a\u0627\u0639",
+            "frequency": 55
+        },
+        "415": {
+            "gloss": "\u0637\u0627\u0639\u0647",
+            "frequency": 55
+        },
+        "416": {
+            "gloss": "\u0637\u0627\u0648\u0644\u0647",
+            "frequency": 99
+        },
+        "417": {
+            "gloss": "\u0637\u0628\u062e",
+            "frequency": 22
+        },
+        "418": {
+            "gloss": "\u0637\u0628\u064a\u0628",
+            "frequency": 11
+        },
+        "419": {
+            "gloss": "\u0637\u0631\u064a\u0642",
+            "frequency": 33
+        },
+        "420": {
+            "gloss": "\u0637\u0631\u064a\u0642\u0647",
+            "frequency": 33
+        },
+        "421": {
+            "gloss": "\u0637\u0639\u0645",
+            "frequency": 33
+        },
+        "422": {
+            "gloss": "\u0637\u0641\u0644",
+            "frequency": 199
+        },
+        "423": {
+            "gloss": "\u0637\u0644\u0628",
+            "frequency": 33
+        },
+        "424": {
+            "gloss": "\u0637\u0648\u064a\u0644",
+            "frequency": 55
+        },
+        "425": {
+            "gloss": "\u0637\u064a\u0627\u0631\u0647",
+            "frequency": 186
+        },
+        "426": {
+            "gloss": "\u0637\u064a\u0628",
+            "frequency": 44
+        },
+        "427": {
+            "gloss": "\u0637\u064a\u0631",
+            "frequency": 44
+        },
+        "428": {
+            "gloss": "\u0639",
+            "frequency": 22
+        },
+        "429": {
+            "gloss": "\u0639\u0627\u0635\u0645\u0647",
+            "frequency": 22
+        },
+        "430": {
+            "gloss": "\u0639\u0627\u0644\u0645",
+            "frequency": 66
+        },
+        "431": {
+            "gloss": "\u0639\u0627\u0645\u0644",
+            "frequency": 11
+        },
+        "432": {
+            "gloss": "\u0639\u0631\u0628\u064a\u0647",
+            "frequency": 22
+        },
+        "433": {
+            "gloss": "\u0639\u0631\u0636",
+            "frequency": 22
+        },
+        "434": {
+            "gloss": "\u0639\u0633\u0644",
+            "frequency": 22
+        },
+        "435": {
+            "gloss": "\u0639\u0634\u0631",
+            "frequency": 33
+        },
+        "436": {
+            "gloss": "\u0639\u0634\u0631_\u0627\u064a\u0627\u0645",
+            "frequency": 11
+        },
+        "437": {
+            "gloss": "\u0639\u0634\u0631_\u0633\u0627\u0639\u0627\u062a",
+            "frequency": 11
+        },
+        "438": {
+            "gloss": "\u0639\u0634\u0631\u0648\u0646",
+            "frequency": 11
+        },
+        "439": {
+            "gloss": "\u0639\u0634\u0631\u064a\u0646",
+            "frequency": 11
+        },
+        "440": {
+            "gloss": "\u0639\u0635\u064a\u0631",
+            "frequency": 22
+        },
+        "441": {
+            "gloss": "\u0639\u0636\u0644",
+            "frequency": 11
+        },
+        "442": {
+            "gloss": "\u0639\u0636\u0648",
+            "frequency": 11
+        },
+        "443": {
+            "gloss": "\u0639\u0637\u0627\u0621",
+            "frequency": 22
+        },
+        "444": {
+            "gloss": "\u0639\u0637\u0631",
+            "frequency": 33
+        },
+        "445": {
+            "gloss": "\u0639\u0637\u0644",
+            "frequency": 11
+        },
+        "446": {
+            "gloss": "\u0639\u0642\u0627\u0644",
+            "frequency": 43
+        },
+        "447": {
+            "gloss": "\u0639\u0642\u0644",
+            "frequency": 11
+        },
+        "448": {
+            "gloss": "\u0639\u0644\u0645",
+            "frequency": 44
+        },
+        "449": {
+            "gloss": "\u0639\u0644\u0649",
+            "frequency": 11
+        },
+        "450": {
+            "gloss": "\u0639\u0645",
+            "frequency": 55
+        },
+        "451": {
+            "gloss": "\u0639\u0645\u0631",
+            "frequency": 189
+        },
+        "452": {
+            "gloss": "\u0639\u0645\u0631\u0647",
+            "frequency": 22
+        },
+        "453": {
+            "gloss": "\u0639\u0645\u0644",
+            "frequency": 395
+        },
+        "454": {
+            "gloss": "\u0639\u0646\u0627\u064a\u0647",
+            "frequency": 11
+        },
+        "455": {
+            "gloss": "\u0639\u0648\u062f\u0647",
+            "frequency": 87
+        },
+        "456": {
+            "gloss": "\u0639\u064a\u062f",
+            "frequency": 45
+        },
+        "457": {
+            "gloss": "\u063a\u0627\u0644\u064a",
+            "frequency": 22
+        },
+        "458": {
+            "gloss": "\u063a\u062a\u0631\u0647",
+            "frequency": 33
+        },
+        "459": {
+            "gloss": "\u063a\u062f\u0627",
+            "frequency": 198
+        },
+        "460": {
+            "gloss": "\u063a\u0631\u0641\u0647",
+            "frequency": 33
+        },
+        "461": {
+            "gloss": "\u063a\u0633\u0644",
+            "frequency": 66
+        },
+        "462": {
+            "gloss": "\u063a\u0633\u0644_\u0648\u062c\u0647",
+            "frequency": 22
+        },
+        "463": {
+            "gloss": "\u063a\u0633\u0644_\u064a\u062f",
+            "frequency": 22
+        },
+        "464": {
+            "gloss": "\u063a\u0646\u064a",
+            "frequency": 11
+        },
+        "465": {
+            "gloss": "\u063a\u064a\u0631",
+            "frequency": 11
+        },
+        "466": {
+            "gloss": "\u063a\u064a\u0648\u0645",
+            "frequency": 33
+        },
+        "467": {
+            "gloss": "\u0641\u0627\u0626\u062f\u0647",
+            "frequency": 76
+        },
+        "468": {
+            "gloss": "\u0641\u0627\u0636\u064a",
+            "frequency": 45
+        },
+        "469": {
+            "gloss": "\u0641\u0627\u0636\u064a_2",
+            "frequency": 11
+        },
+        "470": {
+            "gloss": "\u0641\u062a\u062d",
+            "frequency": 76
+        },
+        "471": {
+            "gloss": "\u0641\u0631\u0646\u0633\u0627",
+            "frequency": 66
+        },
+        "472": {
+            "gloss": "\u0641\u0633\u062a\u0627\u0646",
+            "frequency": 44
+        },
+        "473": {
+            "gloss": "\u0641\u0636\u064a",
+            "frequency": 43
+        },
+        "474": {
+            "gloss": "\u0641\u0642\u064a\u0631",
+            "frequency": 44
+        },
+        "475": {
+            "gloss": "\u0641\u0644\u0627\u062d",
+            "frequency": 22
+        },
+        "476": {
+            "gloss": "\u0641\u0644\u0627\u0641\u0644",
+            "frequency": 33
+        },
+        "477": {
+            "gloss": "\u0641\u0644\u0641\u0644",
+            "frequency": 11
+        },
+        "478": {
+            "gloss": "\u0641\u0646\u062f\u0642",
+            "frequency": 33
+        },
+        "479": {
+            "gloss": "\u0641\u0647\u0645",
+            "frequency": 22
+        },
+        "480": {
+            "gloss": "\u0641\u0648\u0636\u0649",
+            "frequency": 11
+        },
+        "481": {
+            "gloss": "\u0641\u0648\u0642",
+            "frequency": 11
+        },
+        "482": {
+            "gloss": "\u0641\u0648\u0642_\u0643\u0631\u0633\u064a",
+            "frequency": 11
+        },
+        "483": {
+            "gloss": "\u0641\u064a",
+            "frequency": 11
+        },
+        "484": {
+            "gloss": "\u0641\u064a\u0644",
+            "frequency": 22
+        },
+        "485": {
+            "gloss": "\u0641\u064a\u0644\u0627",
+            "frequency": 22
+        },
+        "486": {
+            "gloss": "\u0641\u064a\u0644\u0645",
+            "frequency": 66
+        },
+        "487": {
+            "gloss": "\u0642",
+            "frequency": 11
+        },
+        "488": {
+            "gloss": "\u0642\u0627\u062f\u0645",
+            "frequency": 11
+        },
+        "489": {
+            "gloss": "\u0642\u0627\u0644",
+            "frequency": 11
+        },
+        "490": {
+            "gloss": "\u0642\u0628\u0644",
+            "frequency": 154
+        },
+        "491": {
+            "gloss": "\u0642\u0628\u064a\u062d",
+            "frequency": 32
+        },
+        "492": {
+            "gloss": "\u0642\u062f\u0631\u0647",
+            "frequency": 296
+        },
+        "493": {
+            "gloss": "\u0642\u062f\u064a\u0645",
+            "frequency": 44
+        },
+        "494": {
+            "gloss": "\u0642\u0631\u0627\u0621\u0647",
+            "frequency": 186
+        },
+        "495": {
+            "gloss": "\u0642\u0631\u0627\u0621\u0647_\u0634\u0641\u0627\u0647",
+            "frequency": 22
+        },
+        "496": {
+            "gloss": "\u0642\u0631\u0627\u0646",
+            "frequency": 34
+        },
+        "497": {
+            "gloss": "\u0642\u0631\u062f",
+            "frequency": 33
+        },
+        "498": {
+            "gloss": "\u0642\u0631\u064a\u0628",
+            "frequency": 89
+        },
+        "499": {
+            "gloss": "\u0642\u0635\u0635",
+            "frequency": 11
+        },
+        "500": {
+            "gloss": "\u0642\u0635\u0647",
+            "frequency": 44
+        },
+        "501": {
+            "gloss": "\u0642\u0635\u064a\u0631",
+            "frequency": 22
+        },
+        "502": {
+            "gloss": "\u0642\u0636\u0628\u0627\u0646",
+            "frequency": 11
+        },
+        "503": {
+            "gloss": "\u0642\u0637",
+            "frequency": 88
+        },
+        "504": {
+            "gloss": "\u0642\u0637\u0627\u0631",
+            "frequency": 11
+        },
+        "505": {
+            "gloss": "\u0642\u0637\u0641",
+            "frequency": 11
+        },
+        "506": {
+            "gloss": "\u0642\u0641\u0632",
+            "frequency": 11
+        },
+        "507": {
+            "gloss": "\u0642\u0644\u0628",
+            "frequency": 22
+        },
+        "508": {
+            "gloss": "\u0642\u0644\u0645",
+            "frequency": 44
+        },
+        "509": {
+            "gloss": "\u0642\u0644\u064a\u0644",
+            "frequency": 55
+        },
+        "510": {
+            "gloss": "\u0642\u0645\u0627\u0634",
+            "frequency": 22
+        },
+        "511": {
+            "gloss": "\u0642\u0647\u0648\u0647",
+            "frequency": 66
+        },
+        "512": {
+            "gloss": "\u0642\u0648\u0644",
+            "frequency": 33
+        },
+        "513": {
+            "gloss": "\u0642\u064a\u0627\u0633",
+            "frequency": 11
+        },
+        "514": {
+            "gloss": "\u0643\u0627\u0633",
+            "frequency": 43
+        },
+        "515": {
+            "gloss": "\u0643\u0628\u064a\u0631",
+            "frequency": 77
+        },
+        "516": {
+            "gloss": "\u0643\u062a\u0627\u0628",
+            "frequency": 143
+        },
+        "517": {
+            "gloss": "\u0643\u062a\u0627\u0628\u0647",
+            "frequency": 121
+        },
+        "518": {
+            "gloss": "\u0643\u062b\u064a\u0631",
+            "frequency": 44
+        },
+        "519": {
+            "gloss": "\u0643\u0630\u0628",
+            "frequency": 33
+        },
+        "520": {
+            "gloss": "\u0643\u0631\u0633\u064a",
+            "frequency": 77
+        },
+        "521": {
+            "gloss": "\u0643\u0631\u0647",
+            "frequency": 55
+        },
+        "522": {
+            "gloss": "\u0643\u0631\u0647_\u0642\u062f\u0645",
+            "frequency": 75
+        },
+        "523": {
+            "gloss": "\u0643\u0631\u064a\u0645",
+            "frequency": 33
+        },
+        "524": {
+            "gloss": "\u0643\u0633\u0631",
+            "frequency": 22
+        },
+        "525": {
+            "gloss": "\u0643\u0633\u0631_\u0646\u0627\u0641\u0630\u0647",
+            "frequency": 11
+        },
+        "526": {
+            "gloss": "\u0643\u0633\u0644",
+            "frequency": 33
+        },
+        "527": {
+            "gloss": "\u0643\u0641\u064a\u0641",
+            "frequency": 21
+        },
+        "528": {
+            "gloss": "\u0643\u0644_\u0633\u0646\u0647",
+            "frequency": 22
+        },
+        "529": {
+            "gloss": "\u0643\u0644_\u064a\u0648\u0645",
+            "frequency": 208
+        },
+        "530": {
+            "gloss": "\u0643\u0644\u0627\u0645",
+            "frequency": 88
+        },
+        "531": {
+            "gloss": "\u0643\u0644\u0628",
+            "frequency": 67
+        },
+        "532": {
+            "gloss": "\u0643\u0644\u0645\u0647",
+            "frequency": 11
+        },
+        "533": {
+            "gloss": "\u0643\u0646\u0633",
+            "frequency": 11
+        },
+        "534": {
+            "gloss": "\u0643\u0648\u0628",
+            "frequency": 22
+        },
+        "535": {
+            "gloss": "\u0643\u0648\u0633\u0627",
+            "frequency": 22
+        },
+        "536": {
+            "gloss": "\u0643\u0648\u0641\u064a",
+            "frequency": 55
+        },
+        "537": {
+            "gloss": "\u0643\u0648\u064a",
+            "frequency": 22
+        },
+        "538": {
+            "gloss": "\u0643\u064a\u0641\u064a\u0647",
+            "frequency": 66
+        },
+        "539": {
+            "gloss": "\u0643\u064a\u0645\u064a\u0627\u0621",
+            "frequency": 44
+        },
+        "540": {
+            "gloss": "\u0644",
+            "frequency": 33
+        },
+        "541": {
+            "gloss": "\u0644\u0627",
+            "frequency": 505
+        },
+        "542": {
+            "gloss": "\u0644\u0627_2",
+            "frequency": 22
+        },
+        "543": {
+            "gloss": "\u0644\u0627_\u064a\u0648\u062c\u062f",
+            "frequency": 219
+        },
+        "544": {
+            "gloss": "\u0644\u0627\u0628_\u062a\u0648\u0628",
+            "frequency": 55
+        },
+        "545": {
+            "gloss": "\u0644\u0628\u0633",
+            "frequency": 33
+        },
+        "546": {
+            "gloss": "\u0644\u0630\u064a\u0630",
+            "frequency": 33
+        },
+        "547": {
+            "gloss": "\u0644\u0639\u0628",
+            "frequency": 44
+        },
+        "548": {
+            "gloss": "\u0644\u063a\u0647",
+            "frequency": 263
+        },
+        "549": {
+            "gloss": "\u0644\u0642\u0627\u0621",
+            "frequency": 99
+        },
+        "550": {
+            "gloss": "\u0644\u0648\u062d\u0647",
+            "frequency": 154
+        },
+        "551": {
+            "gloss": "\u0644\u0648\u0646",
+            "frequency": 484
+        },
+        "552": {
+            "gloss": "\u0644\u064a",
+            "frequency": 11
+        },
+        "553": {
+            "gloss": "\u0644\u064a\u0644",
+            "frequency": 154
+        },
+        "554": {
+            "gloss": "\u0645",
+            "frequency": 98
+        },
+        "555": {
+            "gloss": "\u0645\u0626\u0647",
+            "frequency": 11
+        },
+        "556": {
+            "gloss": "\u0645\u0627\u0621",
+            "frequency": 44
+        },
+        "557": {
+            "gloss": "\u0645\u0627\u0634\u0627\u0621\u0627\u0644\u0644\u0647",
+            "frequency": 11
+        },
+        "558": {
+            "gloss": "\u0645\u0627\u0634\u0627\u0621\u0644\u0644\u0647",
+            "frequency": 22
+        },
+        "559": {
+            "gloss": "\u0645\u0627\u0636\u064a",
+            "frequency": 363
+        },
+        "560": {
+            "gloss": "\u0645\u0627\u0644",
+            "frequency": 154
+        },
+        "561": {
+            "gloss": "\u0645\u0628\u0627\u0631\u0627\u0647",
+            "frequency": 54
+        },
+        "562": {
+            "gloss": "\u0645\u0628\u0627\u0631\u0647",
+            "frequency": 11
+        },
+        "563": {
+            "gloss": "\u0645\u062a\u0631",
+            "frequency": 22
+        },
+        "564": {
+            "gloss": "\u0645\u062a\u0631\u062c\u0645",
+            "frequency": 22
+        },
+        "565": {
+            "gloss": "\u0645\u062a\u0633\u0648\u0644",
+            "frequency": 11
+        },
+        "566": {
+            "gloss": "\u0645\u062c\u0627\u0645\u0644\u0647",
+            "frequency": 11
+        },
+        "567": {
+            "gloss": "\u0645\u062c\u062a\u0645\u0639",
+            "frequency": 10
+        },
+        "568": {
+            "gloss": "\u0645\u062d\u0627\u062f\u062b\u0647",
+            "frequency": 11
+        },
+        "569": {
+            "gloss": "\u0645\u062d\u0627\u0645\u064a",
+            "frequency": 33
+        },
+        "570": {
+            "gloss": "\u0645\u062d\u062f\u062f",
+            "frequency": 11
+        },
+        "571": {
+            "gloss": "\u0645\u062d\u0641\u0638\u0647",
+            "frequency": 33
+        },
+        "572": {
+            "gloss": "\u0645\u062e\u062f\u0631\u0627\u062a",
+            "frequency": 33
+        },
+        "573": {
+            "gloss": "\u0645\u062f\u0631\u0633\u0647",
+            "frequency": 725
+        },
+        "574": {
+            "gloss": "\u0645\u062f\u064a\u0631",
+            "frequency": 22
+        },
+        "575": {
+            "gloss": "\u0645\u0631\u0628\u0649",
+            "frequency": 11
+        },
+        "576": {
+            "gloss": "\u0645\u0631\u0636",
+            "frequency": 99
+        },
+        "577": {
+            "gloss": "\u0645\u0631\u0643\u0632",
+            "frequency": 109
+        },
+        "578": {
+            "gloss": "\u0645\u0632\u0631\u0639\u0647",
+            "frequency": 22
+        },
+        "579": {
+            "gloss": "\u0645\u0633\u0627\u0639\u062f\u0647",
+            "frequency": 220
+        },
+        "580": {
+            "gloss": "\u0645\u0633\u0627\u0641\u0647",
+            "frequency": 22
+        },
+        "581": {
+            "gloss": "\u0645\u0633\u062a\u0634\u0627\u0631",
+            "frequency": 11
+        },
+        "582": {
+            "gloss": "\u0645\u0633\u062a\u0634\u0641\u0649",
+            "frequency": 132
+        },
+        "583": {
+            "gloss": "\u0645\u0633\u062a\u0642\u0628\u0644",
+            "frequency": 11
+        },
+        "584": {
+            "gloss": "\u0645\u0633\u062a\u0645\u0631",
+            "frequency": 122
+        },
+        "585": {
+            "gloss": "\u0645\u0633\u062c\u062f",
+            "frequency": 65
+        },
+        "586": {
+            "gloss": "\u0645\u0633\u0639\u0641",
+            "frequency": 11
+        },
+        "587": {
+            "gloss": "\u0645\u0633\u0644\u0645",
+            "frequency": 11
+        },
+        "588": {
+            "gloss": "\u0645\u0633\u0648\u0648\u0644",
+            "frequency": 22
+        },
+        "589": {
+            "gloss": "\u0645\u0634\u0627\u0631\u0643\u0647",
+            "frequency": 22
+        },
+        "590": {
+            "gloss": "\u0645\u0634\u0627\u0647\u062f\u0647",
+            "frequency": 395
+        },
+        "591": {
+            "gloss": "\u0645\u0634\u0643\u0644\u0647",
+            "frequency": 54
+        },
+        "592": {
+            "gloss": "\u0645\u0634\u064a",
+            "frequency": 98
+        },
+        "593": {
+            "gloss": "\u0645\u0637\u0631",
+            "frequency": 88
+        },
+        "594": {
+            "gloss": "\u0645\u0638\u0644\u0647",
+            "frequency": 22
+        },
+        "595": {
+            "gloss": "\u0645\u0639",
+            "frequency": 471
+        },
+        "596": {
+            "gloss": "\u0645\u0639_\u0627\u0644\u0633\u0644\u0627\u0645\u0647",
+            "frequency": 22
+        },
+        "597": {
+            "gloss": "\u0645\u0639\u0627\u0642",
+            "frequency": 11
+        },
+        "598": {
+            "gloss": "\u0645\u0639\u0631\u0641\u0647",
+            "frequency": 264
+        },
+        "599": {
+            "gloss": "\u0645\u0639\u0631\u0648\u0641",
+            "frequency": 11
+        },
+        "600": {
+            "gloss": "\u0645\u0639\u0644\u0645",
+            "frequency": 198
+        },
+        "601": {
+            "gloss": "\u0645\u0641\u062a\u0648\u062d",
+            "frequency": 22
+        },
+        "602": {
+            "gloss": "\u0645\u0641\u0644\u0633",
+            "frequency": 22
+        },
+        "603": {
+            "gloss": "\u0645\u0642\u0627\u0628\u0644\u0647",
+            "frequency": 33
+        },
+        "604": {
+            "gloss": "\u0645\u0642\u0627\u0633",
+            "frequency": 11
+        },
+        "605": {
+            "gloss": "\u0645\u0643\u0627\u0646",
+            "frequency": 33
+        },
+        "606": {
+            "gloss": "\u0645\u0643\u062a\u0628\u0647",
+            "frequency": 44
+        },
+        "607": {
+            "gloss": "\u0645\u0643\u0631\u0648\u0646\u0647",
+            "frequency": 44
+        },
+        "608": {
+            "gloss": "\u0645\u0644\u0627\u0628\u0633",
+            "frequency": 155
+        },
+        "609": {
+            "gloss": "\u0645\u0644\u0627\u062d\u0642\u0647",
+            "frequency": 11
+        },
+        "610": {
+            "gloss": "\u0645\u0644\u062d",
+            "frequency": 22
+        },
+        "611": {
+            "gloss": "\u0645\u0644\u0643",
+            "frequency": 22
+        },
+        "612": {
+            "gloss": "\u0645\u0644\u0643\u064a\u0647",
+            "frequency": 11
+        },
+        "613": {
+            "gloss": "\u0645\u0645\u062a\u0627\u0632",
+            "frequency": 110
+        },
+        "614": {
+            "gloss": "\u0645\u0645\u0643\u0646",
+            "frequency": 44
+        },
+        "615": {
+            "gloss": "\u0645\u0645\u0646\u0648\u0639",
+            "frequency": 88
+        },
+        "616": {
+            "gloss": "\u0645\u0646\u0632\u0644",
+            "frequency": 419
+        },
+        "617": {
+            "gloss": "\u0645\u0646\u0637\u0642\u0647",
+            "frequency": 44
+        },
+        "618": {
+            "gloss": "\u0645\u0646\u0642\u0637",
+            "frequency": 33
+        },
+        "619": {
+            "gloss": "\u0645\u0647\u0627\u0631\u0647",
+            "frequency": 11
+        },
+        "620": {
+            "gloss": "\u0645\u0647\u0645",
+            "frequency": 11
+        },
+        "621": {
+            "gloss": "\u0645\u0648\u062a",
+            "frequency": 79
+        },
+        "622": {
+            "gloss": "\u0645\u0648\u0632",
+            "frequency": 22
+        },
+        "623": {
+            "gloss": "\u0645\u0648\u0632\u0647",
+            "frequency": 66
+        },
+        "624": {
+            "gloss": "\u0645\u0648\u0633\u064a\u0642\u0649",
+            "frequency": 33
+        },
+        "625": {
+            "gloss": "\u0645\u0648\u0636\u0648\u0639",
+            "frequency": 11
+        },
+        "626": {
+            "gloss": "\u0645\u0648\u0639\u062f",
+            "frequency": 11
+        },
+        "627": {
+            "gloss": "\u0645\u0648\u0642\u0639",
+            "frequency": 121
+        },
+        "628": {
+            "gloss": "\u0645\u0648\u0644\u0648\u062f",
+            "frequency": 33
+        },
+        "629": {
+            "gloss": "\u0646",
+            "frequency": 22
+        },
+        "630": {
+            "gloss": "\u0646\u0627\u062f\u0644",
+            "frequency": 11
+        },
+        "631": {
+            "gloss": "\u0646\u0627\u0631",
+            "frequency": 32
+        },
+        "632": {
+            "gloss": "\u0646\u0627\u0631\u063a\u0631\u0641\u0647",
+            "frequency": 11
+        },
+        "633": {
+            "gloss": "\u0646\u0627\u0641\u0630\u0647",
+            "frequency": 11
+        },
+        "634": {
+            "gloss": "\u0646\u062d\u064a\u0641",
+            "frequency": 22
+        },
+        "635": {
+            "gloss": "\u0646\u062f\u0627\u0621",
+            "frequency": 33
+        },
+        "636": {
+            "gloss": "\u0646\u0633\u0628\u0647",
+            "frequency": 32
+        },
+        "637": {
+            "gloss": "\u0646\u0633\u064a\u0627\u0646",
+            "frequency": 22
+        },
+        "638": {
+            "gloss": "\u0646\u0635\u0641",
+            "frequency": 34
+        },
+        "639": {
+            "gloss": "\u0646\u0638\u0627\u0631\u0647",
+            "frequency": 22
+        },
+        "640": {
+            "gloss": "\u0646\u0638\u0631",
+            "frequency": 22
+        },
+        "641": {
+            "gloss": "\u0646\u0638\u064a\u0641",
+            "frequency": 44
+        },
+        "642": {
+            "gloss": "\u0646\u0639\u0645",
+            "frequency": 66
+        },
+        "643": {
+            "gloss": "\u0646\u0641\u0633\u064a",
+            "frequency": 11
+        },
+        "644": {
+            "gloss": "\u0646\u0642\u0644",
+            "frequency": 11
+        },
+        "645": {
+            "gloss": "\u0646\u0647\u0627\u064a\u0647",
+            "frequency": 44
+        },
+        "646": {
+            "gloss": "\u0646\u0648\u0645",
+            "frequency": 120
+        },
+        "647": {
+            "gloss": "\u0646\u064a\u0647",
+            "frequency": 11
+        },
+        "648": {
+            "gloss": "\u0647",
+            "frequency": 22
+        },
+        "649": {
+            "gloss": "\u0647\u0627\u062a\u0641",
+            "frequency": 88
+        },
+        "650": {
+            "gloss": "\u0647\u0630\u0627",
+            "frequency": 77
+        },
+        "651": {
+            "gloss": "\u0647\u0636\u0645\u064a",
+            "frequency": 11
+        },
+        "652": {
+            "gloss": "\u0647\u0646\u0627",
+            "frequency": 22
+        },
+        "653": {
+            "gloss": "\u0647\u0648",
+            "frequency": 2336
+        },
+        "654": {
+            "gloss": "\u0647\u0648\u0627\u0621",
+            "frequency": 11
+        },
+        "655": {
+            "gloss": "\u0647\u0648\u064a\u0647",
+            "frequency": 55
+        },
+        "656": {
+            "gloss": "\u0648",
+            "frequency": 33
+        },
+        "657": {
+            "gloss": "\u0648\u0627\u062d\u062f",
+            "frequency": 34
+        },
+        "658": {
+            "gloss": "\u0648\u0627\u0636\u062d",
+            "frequency": 33
+        },
+        "659": {
+            "gloss": "\u0648\u062c\u0647",
+            "frequency": 22
+        },
+        "660": {
+            "gloss": "\u0648\u062c\u0648\u0628",
+            "frequency": 185
+        },
+        "661": {
+            "gloss": "\u0648\u0631\u062f\u064a",
+            "frequency": 44
+        },
+        "662": {
+            "gloss": "\u0648\u0632\u0627\u0631\u0647",
+            "frequency": 22
+        },
+        "663": {
+            "gloss": "\u0648\u0635\u0644",
+            "frequency": 11
+        },
+        "664": {
+            "gloss": "\u0648\u0635\u0648\u0644",
+            "frequency": 199
+        },
+        "665": {
+            "gloss": "\u0648\u0636\u0648\u0621",
+            "frequency": 33
+        },
+        "666": {
+            "gloss": "\u0648\u0641\u0627\u0647",
+            "frequency": 9
+        },
+        "667": {
+            "gloss": "\u0648\u0642\u062a",
+            "frequency": 362
+        },
+        "668": {
+            "gloss": "\u0648\u0644\u0627\u062f\u0647",
+            "frequency": 55
+        },
+        "669": {
+            "gloss": "\u0648\u0644\u062f",
+            "frequency": 540
+        },
+        "670": {
+            "gloss": "\u0648\u0644\u062f_\u0639\u0645",
+            "frequency": 54
+        },
+        "671": {
+            "gloss": "\u064a",
+            "frequency": 55
+        },
+        "672": {
+            "gloss": "\u064a\u0643\u0631\u0647",
+            "frequency": 11
+        },
+        "673": {
+            "gloss": "\u064a\u0645\u064a\u0646",
+            "frequency": 11
+        },
+        "674": {
+            "gloss": "\u064a\u0648\u062c\u062f",
+            "frequency": 201
+        },
+        "675": {
+            "gloss": "\u064a\u0648\u0645",
+            "frequency": 131
+        }
+    },
+    "gloss2id": {
+        "\u0627": {
+            "index": 1,
+            "frequency": 33
+        },
+        "\u0627\u0628": {
+            "index": 2,
+            "frequency": 494
+        },
+        "\u0627\u0628\u062a\u0633\u0627\u0645\u0647": {
+            "index": 3,
+            "frequency": 54
+        },
+        "\u0627\u0628\u0646": {
+            "index": 4,
+            "frequency": 351
+        },
+        "\u0627\u0628\u0647\u0627": {
+            "index": 5,
+            "frequency": 33
+        },
+        "\u0627\u0628\u064a\u0636": {
+            "index": 6,
+            "frequency": 77
+        },
+        "\u0627\u062a\u0635\u0627\u0644": {
+            "index": 7,
+            "frequency": 22
+        },
+        "\u0627\u062a\u0635\u0627\u0644\u0627\u062a": {
+            "index": 8,
+            "frequency": 33
+        },
+        "\u0627\u062a\u0642\u0627\u0646": {
+            "index": 9,
+            "frequency": 120
+        },
+        "\u0627\u062b\u0646\u0627\u0646": {
+            "index": 10,
+            "frequency": 64
+        },
+        "\u0627\u062b\u0646\u0627\u0646_\u062b\u0644\u0627\u062b\u0648\u0646": {
+            "index": 11,
+            "frequency": 11
+        },
+        "\u0627\u062b\u0646\u064a\u0646": {
+            "index": 12,
+            "frequency": 1
+        },
+        "\u0627\u062c\u0627\u0632\u0647": {
+            "index": 13,
+            "frequency": 99
+        },
+        "\u0627\u062c\u062a\u0645\u0627\u0639": {
+            "index": 14,
+            "frequency": 22
+        },
+        "\u0627\u062d\u062f_\u0639\u0634\u0631": {
+            "index": 15,
+            "frequency": 33
+        },
+        "\u0627\u062d\u0631\u0627\u0645": {
+            "index": 16,
+            "frequency": 22
+        },
+        "\u0627\u062d\u0645\u0631": {
+            "index": 17,
+            "frequency": 99
+        },
+        "\u0627\u062e": {
+            "index": 18,
+            "frequency": 825
+        },
+        "\u0627\u062e\u0628\u0627\u0631": {
+            "index": 19,
+            "frequency": 33
+        },
+        "\u0627\u062e\u0628\u0631\u0646\u064a": {
+            "index": 20,
+            "frequency": 11
+        },
+        "\u0627\u062e\u062a": {
+            "index": 21,
+            "frequency": 22
+        },
+        "\u0627\u062e\u062a\u0628\u0627\u0631": {
+            "index": 22,
+            "frequency": 55
+        },
+        "\u0627\u062e\u062a\u0641\u0627\u0621": {
+            "index": 23,
+            "frequency": 22
+        },
+        "\u0627\u062e\u062a\u064a\u0627\u0631": {
+            "index": 24,
+            "frequency": 44
+        },
+        "\u0627\u062e\u0630": {
+            "index": 25,
+            "frequency": 44
+        },
+        "\u0627\u062e\u0631": {
+            "index": 26,
+            "frequency": 66
+        },
+        "\u0627\u062e\u0636\u0631": {
+            "index": 27,
+            "frequency": 10
+        },
+        "\u0627\u0631\u0628\u0639": {
+            "index": 28,
+            "frequency": 44
+        },
+        "\u0627\u0631\u0628\u0639_\u0627\u0644\u0639\u0635\u0631": {
+            "index": 29,
+            "frequency": 11
+        },
+        "\u0627\u0631\u0628\u0639_\u0639\u0634\u0631": {
+            "index": 30,
+            "frequency": 11
+        },
+        "\u0627\u0631\u0628\u0639\u0648\u0646": {
+            "index": 31,
+            "frequency": 11
+        },
+        "\u0627\u0631\u0646\u0628": {
+            "index": 32,
+            "frequency": 11
+        },
+        "\u0627\u0631\u064a\u062f": {
+            "index": 33,
+            "frequency": 11
+        },
+        "\u0627\u0632\u062f\u062d\u0627\u0645": {
+            "index": 34,
+            "frequency": 21
+        },
+        "\u0627\u0632\u0631\u0642": {
+            "index": 35,
+            "frequency": 44
+        },
+        "\u0627\u0632\u0639\u0627\u062c": {
+            "index": 36,
+            "frequency": 33
+        },
+        "\u0627\u0633\u0627\u0628\u064a\u0639": {
+            "index": 37,
+            "frequency": 11
+        },
+        "\u0627\u0633\u0628\u0648\u0639": {
+            "index": 38,
+            "frequency": 44
+        },
+        "\u0627\u0633\u0628\u0648\u0639_\u0627\u0644\u0645\u0627\u0636\u064a": {
+            "index": 39,
+            "frequency": 11
+        },
+        "\u0627\u0633\u0628\u0648\u0639_\u0642\u0627\u062f\u0645": {
+            "index": 40,
+            "frequency": 22
+        },
+        "\u0627\u0633\u0628\u0648\u0639_\u0645\u0627\u0636\u064a": {
+            "index": 41,
+            "frequency": 22
+        },
+        "\u0627\u0633\u062a\u0626\u0630\u0627\u0646": {
+            "index": 42,
+            "frequency": 55
+        },
+        "\u0627\u0633\u062a\u0641\u0631\u0627\u063a": {
+            "index": 43,
+            "frequency": 22
+        },
+        "\u0627\u0633\u062a\u0641\u0647\u0627\u0645": {
+            "index": 44,
+            "frequency": 594
+        },
+        "\u0627\u0633\u062a\u064a\u0642\u0627\u0638": {
+            "index": 45,
+            "frequency": 88
+        },
+        "\u0627\u0633\u0631\u0647": {
+            "index": 46,
+            "frequency": 107
+        },
+        "\u0627\u0633\u0639\u0627\u0641": {
+            "index": 47,
+            "frequency": 21
+        },
+        "\u0627\u0633\u0641": {
+            "index": 48,
+            "frequency": 22
+        },
+        "\u0627\u0633\u0641\u0644": {
+            "index": 49,
+            "frequency": 10
+        },
+        "\u0627\u0633\u0645": {
+            "index": 50,
+            "frequency": 197
+        },
+        "\u0627\u0633\u0647\u0627\u0644": {
+            "index": 51,
+            "frequency": 22
+        },
+        "\u0627\u0633\u0648\u062f": {
+            "index": 52,
+            "frequency": 88
+        },
+        "\u0627\u0634\u0627\u0631\u0647": {
+            "index": 53,
+            "frequency": 220
+        },
+        "\u0627\u0634\u062e\u0627\u0635": {
+            "index": 54,
+            "frequency": 77
+        },
+        "\u0627\u0635\u0641\u0631": {
+            "index": 55,
+            "frequency": 77
+        },
+        "\u0627\u0635\u0644\u064a": {
+            "index": 56,
+            "frequency": 11
+        },
+        "\u0627\u0636\u0627\u0621\u0647": {
+            "index": 57,
+            "frequency": 11
+        },
+        "\u0627\u0636\u0627\u0641\u0647": {
+            "index": 58,
+            "frequency": 11
+        },
+        "\u0627\u0637\u0641\u0627\u0644": {
+            "index": 59,
+            "frequency": 22
+        },
+        "\u0627\u0639\u0627\u062f\u0647": {
+            "index": 60,
+            "frequency": 44
+        },
+        "\u0627\u0639\u0627\u0642\u0647": {
+            "index": 61,
+            "frequency": 33
+        },
+        "\u0627\u0639\u0637\u0627\u0621": {
+            "index": 62,
+            "frequency": 55
+        },
+        "\u0627\u0639\u0644\u0649": {
+            "index": 63,
+            "frequency": 11
+        },
+        "\u0627\u0641\u0631\u0627\u062c": {
+            "index": 64,
+            "frequency": 11
+        },
+        "\u0627\u0642\u0627\u0631\u0628": {
+            "index": 65,
+            "frequency": 44
+        },
+        "\u0627\u0643\u0644": {
+            "index": 66,
+            "frequency": 493
+        },
+        "\u0627\u0644": {
+            "index": 67,
+            "frequency": 44
+        },
+        "\u0627\u0644\u0627\u062b\u0646\u064a\u0646": {
+            "index": 68,
+            "frequency": 22
+        },
+        "\u0627\u0644\u0627\u062d\u062f": {
+            "index": 69,
+            "frequency": 11
+        },
+        "\u0627\u0644\u0627\u0631\u0628\u0639\u0627\u0621": {
+            "index": 70,
+            "frequency": 44
+        },
+        "\u0627\u0644\u0627\u0633\u0628\u0648\u0639_\u0627\u0644\u0645\u0627\u0636\u064a": {
+            "index": 71,
+            "frequency": 22
+        },
+        "\u0627\u0644\u0627\u0646": {
+            "index": 72,
+            "frequency": 631
+        },
+        "\u0627\u0644\u0628\u0627\u0642\u064a": {
+            "index": 73,
+            "frequency": 11
+        },
+        "\u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621": {
+            "index": 74,
+            "frequency": 44
+        },
+        "\u0627\u0644\u062c\u0645\u0639\u0647": {
+            "index": 75,
+            "frequency": 44
+        },
+        "\u0627\u0644\u062d\u0630\u0627\u0621": {
+            "index": 76,
+            "frequency": 11
+        },
+        "\u0627\u0644\u062d\u0645\u062f\u0644\u0644\u0647": {
+            "index": 77,
+            "frequency": 12
+        },
+        "\u0627\u0644\u062e\u0645\u064a\u0633": {
+            "index": 78,
+            "frequency": 33
+        },
+        "\u0627\u0644\u0631\u064a\u0627\u0636": {
+            "index": 79,
+            "frequency": 55
+        },
+        "\u0627\u0644\u0633\u0628\u062a": {
+            "index": 80,
+            "frequency": 44
+        },
+        "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0647": {
+            "index": 81,
+            "frequency": 165
+        },
+        "\u0627\u0644\u0633\u0644\u0627\u0645_\u0639\u0644\u064a\u0643\u0645": {
+            "index": 82,
+            "frequency": 11
+        },
+        "\u0627\u0644\u0635\u0644\u0627\u0647": {
+            "index": 83,
+            "frequency": 21
+        },
+        "\u0627\u0644\u0635\u064a\u0646": {
+            "index": 84,
+            "frequency": 22
+        },
+        "\u0627\u0644\u0641": {
+            "index": 85,
+            "frequency": 11
+        },
+        "\u0627\u0644\u0644\u0647": {
+            "index": 86,
+            "frequency": 22
+        },
+        "\u0627\u0644\u0645": {
+            "index": 87,
+            "frequency": 88
+        },
+        "\u0627\u0644\u0645\u063a\u0631\u0628": {
+            "index": 88,
+            "frequency": 33
+        },
+        "\u0627\u0644\u064a\u0648\u0645": {
+            "index": 89,
+            "frequency": 1
+        },
+        "\u0627\u0645": {
+            "index": 90,
+            "frequency": 351
+        },
+        "\u0627\u0645\u0627\u0645": {
+            "index": 91,
+            "frequency": 44
+        },
+        "\u0627\u0645\u062a\u0644\u0627\u0621": {
+            "index": 92,
+            "frequency": 43
+        },
+        "\u0627\u0646": {
+            "index": 93,
+            "frequency": 21
+        },
+        "\u0627\u0646_\u0634\u0627\u0621_\u0627\u0644\u0644\u0647": {
+            "index": 94,
+            "frequency": 11
+        },
+        "\u0627\u0646_\u0634\u0627\u0621_\u0644\u0644\u0647": {
+            "index": 95,
+            "frequency": 11
+        },
+        "\u0627\u0646\u0627": {
+            "index": 96,
+            "frequency": 4100
+        },
+        "\u0627\u0646\u062a": {
+            "index": 97,
+            "frequency": 33
+        },
+        "\u0627\u0646\u062a\u0638\u0627\u0631": {
+            "index": 98,
+            "frequency": 44
+        },
+        "\u0627\u0646\u062a\u0647\u0627\u0621": {
+            "index": 99,
+            "frequency": 44
+        },
+        "\u0627\u0646\u062c\u0644\u064a\u0632\u064a\u0647": {
+            "index": 100,
+            "frequency": 22
+        },
+        "\u0627\u0646\u0633\u0627\u0646": {
+            "index": 101,
+            "frequency": 99
+        },
+        "\u0627\u0646\u0633\u062d\u0627\u0628": {
+            "index": 102,
+            "frequency": 66
+        },
+        "\u0627\u0646\u0641": {
+            "index": 103,
+            "frequency": 11
+        },
+        "\u0627\u0646\u0648\u0627\u0639": {
+            "index": 104,
+            "frequency": 110
+        },
+        "\u0627\u0648": {
+            "index": 105,
+            "frequency": 11
+        },
+        "\u0627\u0648\u0644": {
+            "index": 106,
+            "frequency": 11
+        },
+        "\u0627\u064a_\u0634\u064a": {
+            "index": 107,
+            "frequency": 11
+        },
+        "\u0627\u064a\u062c\u0627\u0631": {
+            "index": 108,
+            "frequency": 22
+        },
+        "\u0627\u064a\u0633_\u0643\u0631\u064a\u0645": {
+            "index": 109,
+            "frequency": 22
+        },
+        "\u0628": {
+            "index": 110,
+            "frequency": 44
+        },
+        "\u0628\u0627\u0628": {
+            "index": 111,
+            "frequency": 11
+        },
+        "\u0628\u0627\u0631\u062f": {
+            "index": 112,
+            "frequency": 11
+        },
+        "\u0628\u0627\u0635": {
+            "index": 113,
+            "frequency": 33
+        },
+        "\u0628\u062d\u062b": {
+            "index": 114,
+            "frequency": 66
+        },
+        "\u0628\u062d\u0631": {
+            "index": 115,
+            "frequency": 97
+        },
+        "\u0628\u062d\u0631\u0647\u0648": {
+            "index": 116,
+            "frequency": 1
+        },
+        "\u0628\u0631\u062f": {
+            "index": 117,
+            "frequency": 121
+        },
+        "\u0628\u0633\u0643\u0648\u062a": {
+            "index": 118,
+            "frequency": 33
+        },
+        "\u0628\u0637\u0627\u0642\u0647": {
+            "index": 119,
+            "frequency": 44
+        },
+        "\u0628\u0637\u0646": {
+            "index": 120,
+            "frequency": 99
+        },
+        "\u0628\u0639\u062f": {
+            "index": 121,
+            "frequency": 99
+        },
+        "\u0628\u0639\u064a\u062f": {
+            "index": 122,
+            "frequency": 22
+        },
+        "\u0628\u0642\u0627\u0644\u0647": {
+            "index": 123,
+            "frequency": 77
+        },
+        "\u0628\u0642\u0631\u0647": {
+            "index": 124,
+            "frequency": 77
+        },
+        "\u0628\u0643\u0627\u0621": {
+            "index": 125,
+            "frequency": 55
+        },
+        "\u0628\u0646\u0627\u0621": {
+            "index": 126,
+            "frequency": 22
+        },
+        "\u0628\u0646\u062a": {
+            "index": 127,
+            "frequency": 591
+        },
+        "\u0628\u0646\u0632\u064a\u0646": {
+            "index": 128,
+            "frequency": 22
+        },
+        "\u0628\u0646\u0637\u0627\u0644": {
+            "index": 129,
+            "frequency": 11
+        },
+        "\u0628\u0646\u0641\u0633\u062c\u064a": {
+            "index": 130,
+            "frequency": 33
+        },
+        "\u0628\u0646\u0643": {
+            "index": 131,
+            "frequency": 44
+        },
+        "\u0628\u0646\u064a": {
+            "index": 132,
+            "frequency": 44
+        },
+        "\u0628\u064a\u062a\u0632\u0627": {
+            "index": 133,
+            "frequency": 55
+        },
+        "\u0628\u064a\u0636": {
+            "index": 134,
+            "frequency": 55
+        },
+        "\u0628\u064a\u0639": {
+            "index": 135,
+            "frequency": 44
+        },
+        "\u062a": {
+            "index": 136,
+            "frequency": 76
+        },
+        "\u062a\u0627\u062c\u0631": {
+            "index": 137,
+            "frequency": 11
+        },
+        "\u062a\u0627\u062e\u064a\u0631": {
+            "index": 138,
+            "frequency": 22
+        },
+        "\u062a\u0627\u0631\u064a\u062e": {
+            "index": 139,
+            "frequency": 264
+        },
+        "\u062a\u0627\u0645\u064a\u0646": {
+            "index": 140,
+            "frequency": 33
+        },
+        "\u062a\u062c\u0627\u0631\u0647": {
+            "index": 141,
+            "frequency": 21
+        },
+        "\u062a\u062c\u0631\u0628\u0647": {
+            "index": 142,
+            "frequency": 11
+        },
+        "\u062a\u062c\u0646\u0628": {
+            "index": 143,
+            "frequency": 22
+        },
+        "\u062a\u062d\u062a": {
+            "index": 144,
+            "frequency": 33
+        },
+        "\u062a\u062d\u0648\u064a\u0644": {
+            "index": 145,
+            "frequency": 11
+        },
+        "\u062a\u062e\u0635\u0635": {
+            "index": 146,
+            "frequency": 11
+        },
+        "\u062a\u062e\u0641\u064a\u0636": {
+            "index": 147,
+            "frequency": 22
+        },
+        "\u062a\u062f\u062d\u0631\u062c": {
+            "index": 148,
+            "frequency": 11
+        },
+        "\u062a\u062f\u062e\u064a\u0646": {
+            "index": 149,
+            "frequency": 11
+        },
+        "\u062a\u062f\u0631\u064a\u0628": {
+            "index": 150,
+            "frequency": 33
+        },
+        "\u062a\u0630\u0643\u0631\u0647": {
+            "index": 151,
+            "frequency": 66
+        },
+        "\u062a\u0630\u0648\u0642": {
+            "index": 152,
+            "frequency": 21
+        },
+        "\u062a\u0631\u062a\u064a\u0628": {
+            "index": 153,
+            "frequency": 22
+        },
+        "\u062a\u0631\u062c\u0645\u0647": {
+            "index": 154,
+            "frequency": 55
+        },
+        "\u062a\u0631\u0641\u064a\u0647": {
+            "index": 155,
+            "frequency": 67
+        },
+        "\u062a\u0631\u0643\u064a\u0632": {
+            "index": 156,
+            "frequency": 22
+        },
+        "\u062a\u0633\u0627\u0642\u0637": {
+            "index": 157,
+            "frequency": 21
+        },
+        "\u062a\u0633\u0639": {
+            "index": 158,
+            "frequency": 33
+        },
+        "\u062a\u0635\u0644\u064a\u062d": {
+            "index": 159,
+            "frequency": 22
+        },
+        "\u062a\u0635\u0645\u064a\u0645": {
+            "index": 160,
+            "frequency": 11
+        },
+        "\u062a\u0635\u0648\u064a\u0631": {
+            "index": 161,
+            "frequency": 22
+        },
+        "\u062a\u0639\u0627\u0645\u0644": {
+            "index": 162,
+            "frequency": 22
+        },
+        "\u062a\u0639\u0628": {
+            "index": 163,
+            "frequency": 111
+        },
+        "\u062a\u0639\u062f\u0627\u062f": {
+            "index": 164,
+            "frequency": 11
+        },
+        "\u062a\u0639\u0644\u064a\u0642": {
+            "index": 165,
+            "frequency": 142
+        },
+        "\u062a\u0639\u0644\u064a\u0645": {
+            "index": 166,
+            "frequency": 44
+        },
+        "\u062a\u0639\u064a\u064a\u0646": {
+            "index": 167,
+            "frequency": 11
+        },
+        "\u062a\u0641\u0627\u062d\u0647": {
+            "index": 168,
+            "frequency": 121
+        },
+        "\u062a\u0641\u0627\u0635\u064a\u0644": {
+            "index": 169,
+            "frequency": 11
+        },
+        "\u062a\u0641\u0636\u0644": {
+            "index": 170,
+            "frequency": 66
+        },
+        "\u062a\u0642\u062f\u064a\u0645": {
+            "index": 171,
+            "frequency": 76
+        },
+        "\u062a\u0642\u0637\u064a\u0639": {
+            "index": 172,
+            "frequency": 66
+        },
+        "\u062a\u0642\u0644\u0628": {
+            "index": 173,
+            "frequency": 11
+        },
+        "\u062a\u0643\u0646\u064a\u0633": {
+            "index": 174,
+            "frequency": 11
+        },
+        "\u062a\u0644\u0641\u0627\u0632": {
+            "index": 175,
+            "frequency": 33
+        },
+        "\u062a\u0645\u0627\u0645": {
+            "index": 176,
+            "frequency": 11
+        },
+        "\u062a\u0646\u0628\u064a\u0647": {
+            "index": 177,
+            "frequency": 11
+        },
+        "\u062a\u0646\u0638\u064a\u0641_\u0627\u0633\u0646\u0627\u0646": {
+            "index": 178,
+            "frequency": 11
+        },
+        "\u062a\u0646\u0648\u0631\u0647": {
+            "index": 179,
+            "frequency": 11
+        },
+        "\u062a\u064a\u0634\u064a\u0631\u062a": {
+            "index": 180,
+            "frequency": 22
+        },
+        "\u062b\u0627\u0646\u0648\u064a": {
+            "index": 181,
+            "frequency": 22
+        },
+        "\u062b\u0627\u0646\u064a": {
+            "index": 182,
+            "frequency": 33
+        },
+        "\u062b\u0639\u0628\u0627\u0646": {
+            "index": 183,
+            "frequency": 44
+        },
+        "\u062b\u0642\u064a\u0644": {
+            "index": 184,
+            "frequency": 44
+        },
+        "\u062b\u0644\u0627\u062b": {
+            "index": 185,
+            "frequency": 101
+        },
+        "\u062b\u0644\u0627\u062b_\u0627\u0635\u0641\u0627\u0631": {
+            "index": 186,
+            "frequency": 11
+        },
+        "\u062b\u0644\u0627\u062b_\u0627\u064a\u0627\u0645": {
+            "index": 187,
+            "frequency": 11
+        },
+        "\u062b\u0644\u0627\u062b_\u0633\u0646\u0648\u0627\u062a": {
+            "index": 188,
+            "frequency": 21
+        },
+        "\u062b\u0644\u062c": {
+            "index": 189,
+            "frequency": 22
+        },
+        "\u062b\u0645\u0627\u0646_\u0633\u0627\u0639\u0627\u062a": {
+            "index": 190,
+            "frequency": 11
+        },
+        "\u062c": {
+            "index": 191,
+            "frequency": 11
+        },
+        "\u062c\u0627\u0631": {
+            "index": 192,
+            "frequency": 22
+        },
+        "\u062c\u0627\u0643\u064a\u062a": {
+            "index": 193,
+            "frequency": 22
+        },
+        "\u062c\u0627\u0645\u0639\u0647": {
+            "index": 194,
+            "frequency": 33
+        },
+        "\u062c\u0627\u0646\u0628": {
+            "index": 195,
+            "frequency": 11
+        },
+        "\u062c\u0628\u0644": {
+            "index": 196,
+            "frequency": 55
+        },
+        "\u062c\u062f": {
+            "index": 197,
+            "frequency": 285
+        },
+        "\u062c\u062f\u0627\u0631": {
+            "index": 198,
+            "frequency": 22
+        },
+        "\u062c\u062f\u064a\u0644\u0647": {
+            "index": 199,
+            "frequency": 22
+        },
+        "\u062c\u0631\u0633": {
+            "index": 200,
+            "frequency": 33
+        },
+        "\u062c\u0631\u064a": {
+            "index": 201,
+            "frequency": 22
+        },
+        "\u062c\u0632\u0631": {
+            "index": 202,
+            "frequency": 11
+        },
+        "\u062c\u0633\u0645": {
+            "index": 203,
+            "frequency": 55
+        },
+        "\u062c\u0645\u0639\u064a\u0647": {
+            "index": 204,
+            "frequency": 22
+        },
+        "\u062c\u0645\u064a\u0639": {
+            "index": 205,
+            "frequency": 176
+        },
+        "\u062c\u0645\u064a\u0644": {
+            "index": 206,
+            "frequency": 154
+        },
+        "\u062c\u0647\u0644": {
+            "index": 207,
+            "frequency": 11
+        },
+        "\u062c\u0648": {
+            "index": 208,
+            "frequency": 22
+        },
+        "\u062c\u0648\u0627\u0628": {
+            "index": 209,
+            "frequency": 11
+        },
+        "\u062c\u0648\u0627\u0632": {
+            "index": 210,
+            "frequency": 66
+        },
+        "\u062c\u0648\u0627\u0632_\u0633\u0641\u0631": {
+            "index": 211,
+            "frequency": 11
+        },
+        "\u062c\u0648\u0627\u0644": {
+            "index": 212,
+            "frequency": 22
+        },
+        "\u062c\u0648\u0639": {
+            "index": 213,
+            "frequency": 55
+        },
+        "\u062c\u064a\u062f": {
+            "index": 214,
+            "frequency": 58
+        },
+        "\u062d": {
+            "index": 215,
+            "frequency": 11
+        },
+        "\u062d\u0627\u062f\u062b": {
+            "index": 216,
+            "frequency": 44
+        },
+        "\u062d\u0627\u0631": {
+            "index": 217,
+            "frequency": 32
+        },
+        "\u062d\u0627\u0633\u0628": {
+            "index": 218,
+            "frequency": 55
+        },
+        "\u062d\u0627\u0641\u0644\u0647": {
+            "index": 219,
+            "frequency": 44
+        },
+        "\u062d\u0627\u0644": {
+            "index": 220,
+            "frequency": 22
+        },
+        "\u062d\u0628": {
+            "index": 221,
+            "frequency": 660
+        },
+        "\u062d\u0628\u0647": {
+            "index": 222,
+            "frequency": 43
+        },
+        "\u062d\u062c": {
+            "index": 223,
+            "frequency": 33
+        },
+        "\u062d\u062f\u0627\u062f": {
+            "index": 224,
+            "frequency": 22
+        },
+        "\u062d\u062f\u0627\u062f\u0647": {
+            "index": 225,
+            "frequency": 11
+        },
+        "\u062d\u062f\u064a\u062f": {
+            "index": 226,
+            "frequency": 33
+        },
+        "\u062d\u062f\u064a\u0642\u0647": {
+            "index": 227,
+            "frequency": 77
+        },
+        "\u062d\u0630\u0627\u0621": {
+            "index": 228,
+            "frequency": 97
+        },
+        "\u062d\u0632\u0646": {
+            "index": 229,
+            "frequency": 22
+        },
+        "\u062d\u0632\u064a\u0646": {
+            "index": 230,
+            "frequency": 22
+        },
+        "\u062d\u0633\u0627\u0628": {
+            "index": 231,
+            "frequency": 11
+        },
+        "\u062d\u0636\u0648\u0631": {
+            "index": 232,
+            "frequency": 11
+        },
+        "\u062d\u0641\u0638": {
+            "index": 233,
+            "frequency": 33
+        },
+        "\u062d\u0641\u0644": {
+            "index": 234,
+            "frequency": 44
+        },
+        "\u062d\u0641\u064a\u062f": {
+            "index": 235,
+            "frequency": 33
+        },
+        "\u062d\u0642": {
+            "index": 236,
+            "frequency": 22
+        },
+        "\u062d\u0642\u064a\u0628\u0647_\u0638\u0647\u0631": {
+            "index": 237,
+            "frequency": 33
+        },
+        "\u062d\u0642\u064a\u0628\u0647_\u064a\u062f": {
+            "index": 238,
+            "frequency": 77
+        },
+        "\u062d\u0644\u0648": {
+            "index": 239,
+            "frequency": 22
+        },
+        "\u062d\u0645\u0627\u0645": {
+            "index": 240,
+            "frequency": 11
+        },
+        "\u062d\u0645\u0627\u064a\u0647": {
+            "index": 241,
+            "frequency": 44
+        },
+        "\u062d\u0645\u0635": {
+            "index": 242,
+            "frequency": 33
+        },
+        "\u062d\u0645\u0649": {
+            "index": 243,
+            "frequency": 22
+        },
+        "\u062d\u0648\u0636": {
+            "index": 244,
+            "frequency": 11
+        },
+        "\u062e": {
+            "index": 245,
+            "frequency": 22
+        },
+        "\u062e\u0627\u0631\u062c": {
+            "index": 246,
+            "frequency": 11
+        },
+        "\u062e\u0627\u0635": {
+            "index": 247,
+            "frequency": 55
+        },
+        "\u062e\u0627\u0644": {
+            "index": 248,
+            "frequency": 88
+        },
+        "\u062e\u0628\u0631\u0647": {
+            "index": 249,
+            "frequency": 22
+        },
+        "\u062e\u0628\u0632": {
+            "index": 250,
+            "frequency": 22
+        },
+        "\u062e\u0628\u064a\u0631": {
+            "index": 251,
+            "frequency": 22
+        },
+        "\u062e\u062f\u0645\u0647": {
+            "index": 252,
+            "frequency": 44
+        },
+        "\u062e\u0632\u0627\u0646\u0647": {
+            "index": 253,
+            "frequency": 110
+        },
+        "\u062e\u0633": {
+            "index": 254,
+            "frequency": 11
+        },
+        "\u062e\u0636\u0627\u0631": {
+            "index": 255,
+            "frequency": 11
+        },
+        "\u062e\u0637\u0631": {
+            "index": 256,
+            "frequency": 33
+        },
+        "\u062e\u0637\u0647": {
+            "index": 257,
+            "frequency": 11
+        },
+        "\u062e\u0637\u0648\u0627\u062a": {
+            "index": 258,
+            "frequency": 11
+        },
+        "\u062e\u0641\u064a\u0641": {
+            "index": 259,
+            "frequency": 44
+        },
+        "\u062e\u0644\u0627\u0635": {
+            "index": 260,
+            "frequency": 22
+        },
+        "\u062e\u0644\u0637": {
+            "index": 261,
+            "frequency": 175
+        },
+        "\u062e\u0644\u0641": {
+            "index": 262,
+            "frequency": 33
+        },
+        "\u062e\u0645\u0633": {
+            "index": 263,
+            "frequency": 65
+        },
+        "\u062e\u0645\u0633\u0648\u0646": {
+            "index": 264,
+            "frequency": 22
+        },
+        "\u062e\u0648\u0641": {
+            "index": 265,
+            "frequency": 176
+        },
+        "\u062e\u064a\u0627\u0637\u0647": {
+            "index": 266,
+            "frequency": 33
+        },
+        "\u062e\u064a\u0631": {
+            "index": 267,
+            "frequency": 55
+        },
+        "\u062f": {
+            "index": 268,
+            "frequency": 176
+        },
+        "\u062f\u0627\u062e\u0644": {
+            "index": 269,
+            "frequency": 109
+        },
+        "\u062f\u062c\u0627\u062c": {
+            "index": 270,
+            "frequency": 77
+        },
+        "\u062f\u062e\u0627\u0646": {
+            "index": 271,
+            "frequency": 55
+        },
+        "\u062f\u062e\u0644": {
+            "index": 272,
+            "frequency": 11
+        },
+        "\u062f\u062e\u0648\u0644": {
+            "index": 273,
+            "frequency": 55
+        },
+        "\u062f\u0631\u0627\u062c\u0647": {
+            "index": 274,
+            "frequency": 77
+        },
+        "\u062f\u0631\u0627\u062c\u0647_\u0646\u0627\u0631\u064a\u0647": {
+            "index": 275,
+            "frequency": 22
+        },
+        "\u062f\u0639\u0645": {
+            "index": 276,
+            "frequency": 22
+        },
+        "\u062f\u0639\u0648\u0647": {
+            "index": 277,
+            "frequency": 88
+        },
+        "\u062f\u0641\u0639": {
+            "index": 278,
+            "frequency": 55
+        },
+        "\u062f\u0642_\u0627\u0644\u0628\u0627\u0628": {
+            "index": 279,
+            "frequency": 11
+        },
+        "\u062f\u0645": {
+            "index": 280,
+            "frequency": 22
+        },
+        "\u062f\u0647\u0646": {
+            "index": 281,
+            "frequency": 11
+        },
+        "\u062f\u0648\u0627\u0621": {
+            "index": 282,
+            "frequency": 44
+        },
+        "\u062f\u0648\u062e\u0647": {
+            "index": 283,
+            "frequency": 11
+        },
+        "\u062f\u0648\u0631\u0647": {
+            "index": 284,
+            "frequency": 22
+        },
+        "\u0630\u0627\u0643\u0631\u0647": {
+            "index": 285,
+            "frequency": 11
+        },
+        "\u0630\u0628\u062d": {
+            "index": 286,
+            "frequency": 33
+        },
+        "\u0630\u0643\u064a": {
+            "index": 287,
+            "frequency": 44
+        },
+        "\u0630\u0647\u0627\u0628": {
+            "index": 288,
+            "frequency": 668
+        },
+        "\u0630\u0647\u0628\u064a": {
+            "index": 289,
+            "frequency": 44
+        },
+        "\u0630\u0648\u0628\u0627\u0646": {
+            "index": 290,
+            "frequency": 22
+        },
+        "\u0631": {
+            "index": 291,
+            "frequency": 43
+        },
+        "\u0631\u0626\u064a\u0633": {
+            "index": 292,
+            "frequency": 44
+        },
+        "\u0631\u0627\u062a\u0628": {
+            "index": 293,
+            "frequency": 21
+        },
+        "\u0631\u0627\u062d\u0647": {
+            "index": 294,
+            "frequency": 33
+        },
+        "\u0631\u0627\u0633": {
+            "index": 295,
+            "frequency": 22
+        },
+        "\u0631\u0628\u0639": {
+            "index": 296,
+            "frequency": 22
+        },
+        "\u0631\u062c\u0648\u0639": {
+            "index": 297,
+            "frequency": 1
+        },
+        "\u0631\u062d\u0644\u0647": {
+            "index": 298,
+            "frequency": 11
+        },
+        "\u0631\u062d\u0645\u0647": {
+            "index": 299,
+            "frequency": 54
+        },
+        "\u0631\u062e\u0635\u0647": {
+            "index": 300,
+            "frequency": 22
+        },
+        "\u0631\u062e\u064a\u0635": {
+            "index": 301,
+            "frequency": 32
+        },
+        "\u0631\u0632": {
+            "index": 302,
+            "frequency": 88
+        },
+        "\u0631\u0633\u0645": {
+            "index": 303,
+            "frequency": 77
+        },
+        "\u0631\u0633\u0645\u064a": {
+            "index": 304,
+            "frequency": 11
+        },
+        "\u0631\u063a\u0628\u0647": {
+            "index": 305,
+            "frequency": 1042
+        },
+        "\u0631\u0642\u0645": {
+            "index": 306,
+            "frequency": 285
+        },
+        "\u0631\u0643\u0636": {
+            "index": 307,
+            "frequency": 11
+        },
+        "\u0631\u0643\u0648\u0628": {
+            "index": 308,
+            "frequency": 11
+        },
+        "\u0631\u0645\u0627\u062f\u064a": {
+            "index": 309,
+            "frequency": 44
+        },
+        "\u0631\u0645\u0627\u064a\u0647": {
+            "index": 310,
+            "frequency": 22
+        },
+        "\u0631\u0645\u0636\u0627\u0646": {
+            "index": 311,
+            "frequency": 22
+        },
+        "\u0631\u0645\u064a": {
+            "index": 312,
+            "frequency": 11
+        },
+        "\u0631\u064a": {
+            "index": 313,
+            "frequency": 33
+        },
+        "\u0631\u064a\u0627\u0636\u0647": {
+            "index": 314,
+            "frequency": 55
+        },
+        "\u0632": {
+            "index": 315,
+            "frequency": 33
+        },
+        "\u0632\u0639\u0644": {
+            "index": 316,
+            "frequency": 22
+        },
+        "\u0632\u0643\u0627\u0645": {
+            "index": 317,
+            "frequency": 33
+        },
+        "\u0632\u0647\u0631\u0647": {
+            "index": 318,
+            "frequency": 110
+        },
+        "\u0632\u0648\u0627\u062c": {
+            "index": 319,
+            "frequency": 87
+        },
+        "\u0632\u0648\u062c": {
+            "index": 320,
+            "frequency": 133
+        },
+        "\u0632\u064a\u0627\u062f\u0647": {
+            "index": 321,
+            "frequency": 55
+        },
+        "\u0632\u064a\u0627\u0631\u0647": {
+            "index": 322,
+            "frequency": 110
+        },
+        "\u0632\u064a\u062a\u0648\u0646": {
+            "index": 323,
+            "frequency": 11
+        },
+        "\u0633": {
+            "index": 324,
+            "frequency": 44
+        },
+        "\u0633\u0627\u0639\u0647": {
+            "index": 325,
+            "frequency": 44
+        },
+        "\u0633\u0627\u0645\u0639": {
+            "index": 326,
+            "frequency": 11
+        },
+        "\u0633\u0628\u0627\u062d\u0647": {
+            "index": 327,
+            "frequency": 44
+        },
+        "\u0633\u0628\u0628": {
+            "index": 328,
+            "frequency": 447
+        },
+        "\u0633\u0628\u0639": {
+            "index": 329,
+            "frequency": 22
+        },
+        "\u0633\u0628\u0639\u0647": {
+            "index": 330,
+            "frequency": 22
+        },
+        "\u0633\u062a": {
+            "index": 331,
+            "frequency": 11
+        },
+        "\u0633\u062c\u0646": {
+            "index": 332,
+            "frequency": 44
+        },
+        "\u0633\u0631\u0639\u0647": {
+            "index": 333,
+            "frequency": 55
+        },
+        "\u0633\u0631\u0642": {
+            "index": 334,
+            "frequency": 11
+        },
+        "\u0633\u0631\u0642\u0647": {
+            "index": 335,
+            "frequency": 33
+        },
+        "\u0633\u0631\u064a\u0631": {
+            "index": 336,
+            "frequency": 33
+        },
+        "\u0633\u0631\u064a\u0639": {
+            "index": 337,
+            "frequency": 11
+        },
+        "\u0633\u0639\u0648\u062f\u064a\u0647": {
+            "index": 338,
+            "frequency": 11
+        },
+        "\u0633\u0639\u064a\u062f": {
+            "index": 339,
+            "frequency": 252
+        },
+        "\u0633\u0641\u0631": {
+            "index": 340,
+            "frequency": 44
+        },
+        "\u0633\u0642\u0648\u0637": {
+            "index": 341,
+            "frequency": 11
+        },
+        "\u0633\u0643\u0628": {
+            "index": 342,
+            "frequency": 11
+        },
+        "\u0633\u0643\u0631": {
+            "index": 343,
+            "frequency": 22
+        },
+        "\u0633\u0644\u0637\u0647": {
+            "index": 344,
+            "frequency": 22
+        },
+        "\u0633\u0644\u0647": {
+            "index": 345,
+            "frequency": 11
+        },
+        "\u0633\u0645\u0639": {
+            "index": 346,
+            "frequency": 55
+        },
+        "\u0633\u0645\u0643": {
+            "index": 347,
+            "frequency": 1
+        },
+        "\u0633\u0645\u0643\u0647": {
+            "index": 348,
+            "frequency": 65
+        },
+        "\u0633\u0646": {
+            "index": 349,
+            "frequency": 218
+        },
+        "\u0633\u0646\u0647": {
+            "index": 350,
+            "frequency": 12
+        },
+        "\u0633\u0647\u0644": {
+            "index": 351,
+            "frequency": 11
+        },
+        "\u0633\u0648\u0627\u0644": {
+            "index": 352,
+            "frequency": 1446
+        },
+        "\u0633\u0648\u0642": {
+            "index": 353,
+            "frequency": 11
+        },
+        "\u0633\u064a\u0626": {
+            "index": 354,
+            "frequency": 11
+        },
+        "\u0633\u064a\u0627\u062d\u0647": {
+            "index": 355,
+            "frequency": 66
+        },
+        "\u0633\u064a\u0627\u0631\u0647": {
+            "index": 356,
+            "frequency": 187
+        },
+        "\u0633\u064a\u062c\u0627\u0631\u0647": {
+            "index": 357,
+            "frequency": 1
+        },
+        "\u0633\u064a\u0646\u0645\u0627": {
+            "index": 358,
+            "frequency": 99
+        },
+        "\u0634\u0627\u0628": {
+            "index": 359,
+            "frequency": 10
+        },
+        "\u0634\u0627\u0634\u0647": {
+            "index": 360,
+            "frequency": 11
+        },
+        "\u0634\u0627\u064a": {
+            "index": 361,
+            "frequency": 77
+        },
+        "\u0634\u0628\u0627\u0628": {
+            "index": 362,
+            "frequency": 22
+        },
+        "\u0634\u062c\u0631": {
+            "index": 363,
+            "frequency": 22
+        },
+        "\u0634\u062e\u0635": {
+            "index": 364,
+            "frequency": 374
+        },
+        "\u0634\u062f\u064a\u062f": {
+            "index": 365,
+            "frequency": 11
+        },
+        "\u0634\u0631\u0627\u0621": {
+            "index": 366,
+            "frequency": 395
+        },
+        "\u0634\u0631\u0628": {
+            "index": 367,
+            "frequency": 154
+        },
+        "\u0634\u0631\u0637\u0647": {
+            "index": 368,
+            "frequency": 99
+        },
+        "\u0634\u0631\u0643\u0647": {
+            "index": 369,
+            "frequency": 54
+        },
+        "\u0634\u0639\u0627\u0631": {
+            "index": 370,
+            "frequency": 11
+        },
+        "\u0634\u0639\u0628": {
+            "index": 371,
+            "frequency": 11
+        },
+        "\u0634\u0639\u0631": {
+            "index": 372,
+            "frequency": 22
+        },
+        "\u0634\u0639\u0648\u0631": {
+            "index": 373,
+            "frequency": 11
+        },
+        "\u0634\u0643\u0631": {
+            "index": 374,
+            "frequency": 33
+        },
+        "\u0634\u0643\u0648\u0649": {
+            "index": 375,
+            "frequency": 22
+        },
+        "\u0634\u0645\u0627\u063a": {
+            "index": 376,
+            "frequency": 11
+        },
+        "\u0634\u0645\u0633": {
+            "index": 377,
+            "frequency": 33
+        },
+        "\u0634\u0647\u0627\u062f\u0647": {
+            "index": 378,
+            "frequency": 64
+        },
+        "\u0634\u0647\u0631": {
+            "index": 379,
+            "frequency": 87
+        },
+        "\u0634\u0648\u0627\u0621": {
+            "index": 380,
+            "frequency": 32
+        },
+        "\u0634\u0648\u0631\u0628\u0647": {
+            "index": 381,
+            "frequency": 22
+        },
+        "\u0634\u0648\u0643\u0648\u0644\u0627\u062a\u0647": {
+            "index": 382,
+            "frequency": 88
+        },
+        "\u0634\u0648\u064a": {
+            "index": 383,
+            "frequency": 11
+        },
+        "\u0635\u0628\u0627\u062d": {
+            "index": 384,
+            "frequency": 330
+        },
+        "\u0635\u0628\u063a": {
+            "index": 385,
+            "frequency": 44
+        },
+        "\u0635\u062d": {
+            "index": 386,
+            "frequency": 11
+        },
+        "\u0635\u062d\u0646": {
+            "index": 387,
+            "frequency": 11
+        },
+        "\u0635\u062d\u0647": {
+            "index": 388,
+            "frequency": 66
+        },
+        "\u0635\u062e\u0631": {
+            "index": 389,
+            "frequency": 11
+        },
+        "\u0635\u062e\u0631\u0647": {
+            "index": 390,
+            "frequency": 11
+        },
+        "\u0635\u062f\u0631": {
+            "index": 391,
+            "frequency": 33
+        },
+        "\u0635\u062f\u0642": {
+            "index": 392,
+            "frequency": 33
+        },
+        "\u0635\u062f\u0642\u0647": {
+            "index": 393,
+            "frequency": 22
+        },
+        "\u0635\u062f\u064a\u0642": {
+            "index": 394,
+            "frequency": 264
+        },
+        "\u0635\u0631\u0627\u062e": {
+            "index": 395,
+            "frequency": 11
+        },
+        "\u0635\u0639\u0628": {
+            "index": 396,
+            "frequency": 20
+        },
+        "\u0635\u0639\u0648\u062f": {
+            "index": 397,
+            "frequency": 33
+        },
+        "\u0635\u063a\u064a\u0631": {
+            "index": 398,
+            "frequency": 131
+        },
+        "\u0635\u0641\u062d\u0647": {
+            "index": 399,
+            "frequency": 11
+        },
+        "\u0635\u0641\u0647": {
+            "index": 400,
+            "frequency": 11
+        },
+        "\u0635\u0644\u0627\u0647": {
+            "index": 401,
+            "frequency": 99
+        },
+        "\u0635\u0645": {
+            "index": 402,
+            "frequency": 232
+        },
+        "\u0635\u0648\u062a": {
+            "index": 403,
+            "frequency": 22
+        },
+        "\u0635\u0648\u062a_\u062c\u0631\u0633": {
+            "index": 404,
+            "frequency": 1
+        },
+        "\u0635\u0648\u0631\u0647": {
+            "index": 405,
+            "frequency": 77
+        },
+        "\u0635\u064a\u062f": {
+            "index": 406,
+            "frequency": 33
+        },
+        "\u0635\u064a\u062f\u0644\u064a\u0647": {
+            "index": 407,
+            "frequency": 33
+        },
+        "\u0635\u064a\u0641": {
+            "index": 408,
+            "frequency": 165
+        },
+        "\u0635\u064a\u0646": {
+            "index": 409,
+            "frequency": 11
+        },
+        "\u0636\u0628\u0627\u0628": {
+            "index": 410,
+            "frequency": 22
+        },
+        "\u0636\u0628\u0637": {
+            "index": 411,
+            "frequency": 11
+        },
+        "\u0636\u0631\u0628": {
+            "index": 412,
+            "frequency": 23
+        },
+        "\u0636\u063a\u0637": {
+            "index": 413,
+            "frequency": 11
+        },
+        "\u0636\u064a\u0627\u0639": {
+            "index": 414,
+            "frequency": 55
+        },
+        "\u0637\u0627\u0639\u0647": {
+            "index": 415,
+            "frequency": 55
+        },
+        "\u0637\u0627\u0648\u0644\u0647": {
+            "index": 416,
+            "frequency": 99
+        },
+        "\u0637\u0628\u062e": {
+            "index": 417,
+            "frequency": 22
+        },
+        "\u0637\u0628\u064a\u0628": {
+            "index": 418,
+            "frequency": 11
+        },
+        "\u0637\u0631\u064a\u0642": {
+            "index": 419,
+            "frequency": 33
+        },
+        "\u0637\u0631\u064a\u0642\u0647": {
+            "index": 420,
+            "frequency": 33
+        },
+        "\u0637\u0639\u0645": {
+            "index": 421,
+            "frequency": 33
+        },
+        "\u0637\u0641\u0644": {
+            "index": 422,
+            "frequency": 199
+        },
+        "\u0637\u0644\u0628": {
+            "index": 423,
+            "frequency": 33
+        },
+        "\u0637\u0648\u064a\u0644": {
+            "index": 424,
+            "frequency": 55
+        },
+        "\u0637\u064a\u0627\u0631\u0647": {
+            "index": 425,
+            "frequency": 186
+        },
+        "\u0637\u064a\u0628": {
+            "index": 426,
+            "frequency": 44
+        },
+        "\u0637\u064a\u0631": {
+            "index": 427,
+            "frequency": 44
+        },
+        "\u0639": {
+            "index": 428,
+            "frequency": 22
+        },
+        "\u0639\u0627\u0635\u0645\u0647": {
+            "index": 429,
+            "frequency": 22
+        },
+        "\u0639\u0627\u0644\u0645": {
+            "index": 430,
+            "frequency": 66
+        },
+        "\u0639\u0627\u0645\u0644": {
+            "index": 431,
+            "frequency": 11
+        },
+        "\u0639\u0631\u0628\u064a\u0647": {
+            "index": 432,
+            "frequency": 22
+        },
+        "\u0639\u0631\u0636": {
+            "index": 433,
+            "frequency": 22
+        },
+        "\u0639\u0633\u0644": {
+            "index": 434,
+            "frequency": 22
+        },
+        "\u0639\u0634\u0631": {
+            "index": 435,
+            "frequency": 33
+        },
+        "\u0639\u0634\u0631_\u0627\u064a\u0627\u0645": {
+            "index": 436,
+            "frequency": 11
+        },
+        "\u0639\u0634\u0631_\u0633\u0627\u0639\u0627\u062a": {
+            "index": 437,
+            "frequency": 11
+        },
+        "\u0639\u0634\u0631\u0648\u0646": {
+            "index": 438,
+            "frequency": 11
+        },
+        "\u0639\u0634\u0631\u064a\u0646": {
+            "index": 439,
+            "frequency": 11
+        },
+        "\u0639\u0635\u064a\u0631": {
+            "index": 440,
+            "frequency": 22
+        },
+        "\u0639\u0636\u0644": {
+            "index": 441,
+            "frequency": 11
+        },
+        "\u0639\u0636\u0648": {
+            "index": 442,
+            "frequency": 11
+        },
+        "\u0639\u0637\u0627\u0621": {
+            "index": 443,
+            "frequency": 22
+        },
+        "\u0639\u0637\u0631": {
+            "index": 444,
+            "frequency": 33
+        },
+        "\u0639\u0637\u0644": {
+            "index": 445,
+            "frequency": 11
+        },
+        "\u0639\u0642\u0627\u0644": {
+            "index": 446,
+            "frequency": 43
+        },
+        "\u0639\u0642\u0644": {
+            "index": 447,
+            "frequency": 11
+        },
+        "\u0639\u0644\u0645": {
+            "index": 448,
+            "frequency": 44
+        },
+        "\u0639\u0644\u0649": {
+            "index": 449,
+            "frequency": 11
+        },
+        "\u0639\u0645": {
+            "index": 450,
+            "frequency": 55
+        },
+        "\u0639\u0645\u0631": {
+            "index": 451,
+            "frequency": 189
+        },
+        "\u0639\u0645\u0631\u0647": {
+            "index": 452,
+            "frequency": 22
+        },
+        "\u0639\u0645\u0644": {
+            "index": 453,
+            "frequency": 395
+        },
+        "\u0639\u0646\u0627\u064a\u0647": {
+            "index": 454,
+            "frequency": 11
+        },
+        "\u0639\u0648\u062f\u0647": {
+            "index": 455,
+            "frequency": 87
+        },
+        "\u0639\u064a\u062f": {
+            "index": 456,
+            "frequency": 45
+        },
+        "\u063a\u0627\u0644\u064a": {
+            "index": 457,
+            "frequency": 22
+        },
+        "\u063a\u062a\u0631\u0647": {
+            "index": 458,
+            "frequency": 33
+        },
+        "\u063a\u062f\u0627": {
+            "index": 459,
+            "frequency": 198
+        },
+        "\u063a\u0631\u0641\u0647": {
+            "index": 460,
+            "frequency": 33
+        },
+        "\u063a\u0633\u0644": {
+            "index": 461,
+            "frequency": 66
+        },
+        "\u063a\u0633\u0644_\u0648\u062c\u0647": {
+            "index": 462,
+            "frequency": 22
+        },
+        "\u063a\u0633\u0644_\u064a\u062f": {
+            "index": 463,
+            "frequency": 22
+        },
+        "\u063a\u0646\u064a": {
+            "index": 464,
+            "frequency": 11
+        },
+        "\u063a\u064a\u0631": {
+            "index": 465,
+            "frequency": 11
+        },
+        "\u063a\u064a\u0648\u0645": {
+            "index": 466,
+            "frequency": 33
+        },
+        "\u0641\u0627\u0626\u062f\u0647": {
+            "index": 467,
+            "frequency": 76
+        },
+        "\u0641\u0627\u0636\u064a": {
+            "index": 468,
+            "frequency": 45
+        },
+        "\u0641\u0627\u0636\u064a_2": {
+            "index": 469,
+            "frequency": 11
+        },
+        "\u0641\u062a\u062d": {
+            "index": 470,
+            "frequency": 76
+        },
+        "\u0641\u0631\u0646\u0633\u0627": {
+            "index": 471,
+            "frequency": 66
+        },
+        "\u0641\u0633\u062a\u0627\u0646": {
+            "index": 472,
+            "frequency": 44
+        },
+        "\u0641\u0636\u064a": {
+            "index": 473,
+            "frequency": 43
+        },
+        "\u0641\u0642\u064a\u0631": {
+            "index": 474,
+            "frequency": 44
+        },
+        "\u0641\u0644\u0627\u062d": {
+            "index": 475,
+            "frequency": 22
+        },
+        "\u0641\u0644\u0627\u0641\u0644": {
+            "index": 476,
+            "frequency": 33
+        },
+        "\u0641\u0644\u0641\u0644": {
+            "index": 477,
+            "frequency": 11
+        },
+        "\u0641\u0646\u062f\u0642": {
+            "index": 478,
+            "frequency": 33
+        },
+        "\u0641\u0647\u0645": {
+            "index": 479,
+            "frequency": 22
+        },
+        "\u0641\u0648\u0636\u0649": {
+            "index": 480,
+            "frequency": 11
+        },
+        "\u0641\u0648\u0642": {
+            "index": 481,
+            "frequency": 11
+        },
+        "\u0641\u0648\u0642_\u0643\u0631\u0633\u064a": {
+            "index": 482,
+            "frequency": 11
+        },
+        "\u0641\u064a": {
+            "index": 483,
+            "frequency": 11
+        },
+        "\u0641\u064a\u0644": {
+            "index": 484,
+            "frequency": 22
+        },
+        "\u0641\u064a\u0644\u0627": {
+            "index": 485,
+            "frequency": 22
+        },
+        "\u0641\u064a\u0644\u0645": {
+            "index": 486,
+            "frequency": 66
+        },
+        "\u0642": {
+            "index": 487,
+            "frequency": 11
+        },
+        "\u0642\u0627\u062f\u0645": {
+            "index": 488,
+            "frequency": 11
+        },
+        "\u0642\u0627\u0644": {
+            "index": 489,
+            "frequency": 11
+        },
+        "\u0642\u0628\u0644": {
+            "index": 490,
+            "frequency": 154
+        },
+        "\u0642\u0628\u064a\u062d": {
+            "index": 491,
+            "frequency": 32
+        },
+        "\u0642\u062f\u0631\u0647": {
+            "index": 492,
+            "frequency": 296
+        },
+        "\u0642\u062f\u064a\u0645": {
+            "index": 493,
+            "frequency": 44
+        },
+        "\u0642\u0631\u0627\u0621\u0647": {
+            "index": 494,
+            "frequency": 186
+        },
+        "\u0642\u0631\u0627\u0621\u0647_\u0634\u0641\u0627\u0647": {
+            "index": 495,
+            "frequency": 22
+        },
+        "\u0642\u0631\u0627\u0646": {
+            "index": 496,
+            "frequency": 34
+        },
+        "\u0642\u0631\u062f": {
+            "index": 497,
+            "frequency": 33
+        },
+        "\u0642\u0631\u064a\u0628": {
+            "index": 498,
+            "frequency": 89
+        },
+        "\u0642\u0635\u0635": {
+            "index": 499,
+            "frequency": 11
+        },
+        "\u0642\u0635\u0647": {
+            "index": 500,
+            "frequency": 44
+        },
+        "\u0642\u0635\u064a\u0631": {
+            "index": 501,
+            "frequency": 22
+        },
+        "\u0642\u0636\u0628\u0627\u0646": {
+            "index": 502,
+            "frequency": 11
+        },
+        "\u0642\u0637": {
+            "index": 503,
+            "frequency": 88
+        },
+        "\u0642\u0637\u0627\u0631": {
+            "index": 504,
+            "frequency": 11
+        },
+        "\u0642\u0637\u0641": {
+            "index": 505,
+            "frequency": 11
+        },
+        "\u0642\u0641\u0632": {
+            "index": 506,
+            "frequency": 11
+        },
+        "\u0642\u0644\u0628": {
+            "index": 507,
+            "frequency": 22
+        },
+        "\u0642\u0644\u0645": {
+            "index": 508,
+            "frequency": 44
+        },
+        "\u0642\u0644\u064a\u0644": {
+            "index": 509,
+            "frequency": 55
+        },
+        "\u0642\u0645\u0627\u0634": {
+            "index": 510,
+            "frequency": 22
+        },
+        "\u0642\u0647\u0648\u0647": {
+            "index": 511,
+            "frequency": 66
+        },
+        "\u0642\u0648\u0644": {
+            "index": 512,
+            "frequency": 33
+        },
+        "\u0642\u064a\u0627\u0633": {
+            "index": 513,
+            "frequency": 11
+        },
+        "\u0643\u0627\u0633": {
+            "index": 514,
+            "frequency": 43
+        },
+        "\u0643\u0628\u064a\u0631": {
+            "index": 515,
+            "frequency": 77
+        },
+        "\u0643\u062a\u0627\u0628": {
+            "index": 516,
+            "frequency": 143
+        },
+        "\u0643\u062a\u0627\u0628\u0647": {
+            "index": 517,
+            "frequency": 121
+        },
+        "\u0643\u062b\u064a\u0631": {
+            "index": 518,
+            "frequency": 44
+        },
+        "\u0643\u0630\u0628": {
+            "index": 519,
+            "frequency": 33
+        },
+        "\u0643\u0631\u0633\u064a": {
+            "index": 520,
+            "frequency": 77
+        },
+        "\u0643\u0631\u0647": {
+            "index": 521,
+            "frequency": 55
+        },
+        "\u0643\u0631\u0647_\u0642\u062f\u0645": {
+            "index": 522,
+            "frequency": 75
+        },
+        "\u0643\u0631\u064a\u0645": {
+            "index": 523,
+            "frequency": 33
+        },
+        "\u0643\u0633\u0631": {
+            "index": 524,
+            "frequency": 22
+        },
+        "\u0643\u0633\u0631_\u0646\u0627\u0641\u0630\u0647": {
+            "index": 525,
+            "frequency": 11
+        },
+        "\u0643\u0633\u0644": {
+            "index": 526,
+            "frequency": 33
+        },
+        "\u0643\u0641\u064a\u0641": {
+            "index": 527,
+            "frequency": 21
+        },
+        "\u0643\u0644_\u0633\u0646\u0647": {
+            "index": 528,
+            "frequency": 22
+        },
+        "\u0643\u0644_\u064a\u0648\u0645": {
+            "index": 529,
+            "frequency": 208
+        },
+        "\u0643\u0644\u0627\u0645": {
+            "index": 530,
+            "frequency": 88
+        },
+        "\u0643\u0644\u0628": {
+            "index": 531,
+            "frequency": 67
+        },
+        "\u0643\u0644\u0645\u0647": {
+            "index": 532,
+            "frequency": 11
+        },
+        "\u0643\u0646\u0633": {
+            "index": 533,
+            "frequency": 11
+        },
+        "\u0643\u0648\u0628": {
+            "index": 534,
+            "frequency": 22
+        },
+        "\u0643\u0648\u0633\u0627": {
+            "index": 535,
+            "frequency": 22
+        },
+        "\u0643\u0648\u0641\u064a": {
+            "index": 536,
+            "frequency": 55
+        },
+        "\u0643\u0648\u064a": {
+            "index": 537,
+            "frequency": 22
+        },
+        "\u0643\u064a\u0641\u064a\u0647": {
+            "index": 538,
+            "frequency": 66
+        },
+        "\u0643\u064a\u0645\u064a\u0627\u0621": {
+            "index": 539,
+            "frequency": 44
+        },
+        "\u0644": {
+            "index": 540,
+            "frequency": 33
+        },
+        "\u0644\u0627": {
+            "index": 541,
+            "frequency": 505
+        },
+        "\u0644\u0627_2": {
+            "index": 542,
+            "frequency": 22
+        },
+        "\u0644\u0627_\u064a\u0648\u062c\u062f": {
+            "index": 543,
+            "frequency": 219
+        },
+        "\u0644\u0627\u0628_\u062a\u0648\u0628": {
+            "index": 544,
+            "frequency": 55
+        },
+        "\u0644\u0628\u0633": {
+            "index": 545,
+            "frequency": 33
+        },
+        "\u0644\u0630\u064a\u0630": {
+            "index": 546,
+            "frequency": 33
+        },
+        "\u0644\u0639\u0628": {
+            "index": 547,
+            "frequency": 44
+        },
+        "\u0644\u063a\u0647": {
+            "index": 548,
+            "frequency": 263
+        },
+        "\u0644\u0642\u0627\u0621": {
+            "index": 549,
+            "frequency": 99
+        },
+        "\u0644\u0648\u062d\u0647": {
+            "index": 550,
+            "frequency": 154
+        },
+        "\u0644\u0648\u0646": {
+            "index": 551,
+            "frequency": 484
+        },
+        "\u0644\u064a": {
+            "index": 552,
+            "frequency": 11
+        },
+        "\u0644\u064a\u0644": {
+            "index": 553,
+            "frequency": 154
+        },
+        "\u0645": {
+            "index": 554,
+            "frequency": 98
+        },
+        "\u0645\u0626\u0647": {
+            "index": 555,
+            "frequency": 11
+        },
+        "\u0645\u0627\u0621": {
+            "index": 556,
+            "frequency": 44
+        },
+        "\u0645\u0627\u0634\u0627\u0621\u0627\u0644\u0644\u0647": {
+            "index": 557,
+            "frequency": 11
+        },
+        "\u0645\u0627\u0634\u0627\u0621\u0644\u0644\u0647": {
+            "index": 558,
+            "frequency": 22
+        },
+        "\u0645\u0627\u0636\u064a": {
+            "index": 559,
+            "frequency": 363
+        },
+        "\u0645\u0627\u0644": {
+            "index": 560,
+            "frequency": 154
+        },
+        "\u0645\u0628\u0627\u0631\u0627\u0647": {
+            "index": 561,
+            "frequency": 54
+        },
+        "\u0645\u0628\u0627\u0631\u0647": {
+            "index": 562,
+            "frequency": 11
+        },
+        "\u0645\u062a\u0631": {
+            "index": 563,
+            "frequency": 22
+        },
+        "\u0645\u062a\u0631\u062c\u0645": {
+            "index": 564,
+            "frequency": 22
+        },
+        "\u0645\u062a\u0633\u0648\u0644": {
+            "index": 565,
+            "frequency": 11
+        },
+        "\u0645\u062c\u0627\u0645\u0644\u0647": {
+            "index": 566,
+            "frequency": 11
+        },
+        "\u0645\u062c\u062a\u0645\u0639": {
+            "index": 567,
+            "frequency": 10
+        },
+        "\u0645\u062d\u0627\u062f\u062b\u0647": {
+            "index": 568,
+            "frequency": 11
+        },
+        "\u0645\u062d\u0627\u0645\u064a": {
+            "index": 569,
+            "frequency": 33
+        },
+        "\u0645\u062d\u062f\u062f": {
+            "index": 570,
+            "frequency": 11
+        },
+        "\u0645\u062d\u0641\u0638\u0647": {
+            "index": 571,
+            "frequency": 33
+        },
+        "\u0645\u062e\u062f\u0631\u0627\u062a": {
+            "index": 572,
+            "frequency": 33
+        },
+        "\u0645\u062f\u0631\u0633\u0647": {
+            "index": 573,
+            "frequency": 725
+        },
+        "\u0645\u062f\u064a\u0631": {
+            "index": 574,
+            "frequency": 22
+        },
+        "\u0645\u0631\u0628\u0649": {
+            "index": 575,
+            "frequency": 11
+        },
+        "\u0645\u0631\u0636": {
+            "index": 576,
+            "frequency": 99
+        },
+        "\u0645\u0631\u0643\u0632": {
+            "index": 577,
+            "frequency": 109
+        },
+        "\u0645\u0632\u0631\u0639\u0647": {
+            "index": 578,
+            "frequency": 22
+        },
+        "\u0645\u0633\u0627\u0639\u062f\u0647": {
+            "index": 579,
+            "frequency": 220
+        },
+        "\u0645\u0633\u0627\u0641\u0647": {
+            "index": 580,
+            "frequency": 22
+        },
+        "\u0645\u0633\u062a\u0634\u0627\u0631": {
+            "index": 581,
+            "frequency": 11
+        },
+        "\u0645\u0633\u062a\u0634\u0641\u0649": {
+            "index": 582,
+            "frequency": 132
+        },
+        "\u0645\u0633\u062a\u0642\u0628\u0644": {
+            "index": 583,
+            "frequency": 11
+        },
+        "\u0645\u0633\u062a\u0645\u0631": {
+            "index": 584,
+            "frequency": 122
+        },
+        "\u0645\u0633\u062c\u062f": {
+            "index": 585,
+            "frequency": 65
+        },
+        "\u0645\u0633\u0639\u0641": {
+            "index": 586,
+            "frequency": 11
+        },
+        "\u0645\u0633\u0644\u0645": {
+            "index": 587,
+            "frequency": 11
+        },
+        "\u0645\u0633\u0648\u0648\u0644": {
+            "index": 588,
+            "frequency": 22
+        },
+        "\u0645\u0634\u0627\u0631\u0643\u0647": {
+            "index": 589,
+            "frequency": 22
+        },
+        "\u0645\u0634\u0627\u0647\u062f\u0647": {
+            "index": 590,
+            "frequency": 395
+        },
+        "\u0645\u0634\u0643\u0644\u0647": {
+            "index": 591,
+            "frequency": 54
+        },
+        "\u0645\u0634\u064a": {
+            "index": 592,
+            "frequency": 98
+        },
+        "\u0645\u0637\u0631": {
+            "index": 593,
+            "frequency": 88
+        },
+        "\u0645\u0638\u0644\u0647": {
+            "index": 594,
+            "frequency": 22
+        },
+        "\u0645\u0639": {
+            "index": 595,
+            "frequency": 471
+        },
+        "\u0645\u0639_\u0627\u0644\u0633\u0644\u0627\u0645\u0647": {
+            "index": 596,
+            "frequency": 22
+        },
+        "\u0645\u0639\u0627\u0642": {
+            "index": 597,
+            "frequency": 11
+        },
+        "\u0645\u0639\u0631\u0641\u0647": {
+            "index": 598,
+            "frequency": 264
+        },
+        "\u0645\u0639\u0631\u0648\u0641": {
+            "index": 599,
+            "frequency": 11
+        },
+        "\u0645\u0639\u0644\u0645": {
+            "index": 600,
+            "frequency": 198
+        },
+        "\u0645\u0641\u062a\u0648\u062d": {
+            "index": 601,
+            "frequency": 22
+        },
+        "\u0645\u0641\u0644\u0633": {
+            "index": 602,
+            "frequency": 22
+        },
+        "\u0645\u0642\u0627\u0628\u0644\u0647": {
+            "index": 603,
+            "frequency": 33
+        },
+        "\u0645\u0642\u0627\u0633": {
+            "index": 604,
+            "frequency": 11
+        },
+        "\u0645\u0643\u0627\u0646": {
+            "index": 605,
+            "frequency": 33
+        },
+        "\u0645\u0643\u062a\u0628\u0647": {
+            "index": 606,
+            "frequency": 44
+        },
+        "\u0645\u0643\u0631\u0648\u0646\u0647": {
+            "index": 607,
+            "frequency": 44
+        },
+        "\u0645\u0644\u0627\u0628\u0633": {
+            "index": 608,
+            "frequency": 155
+        },
+        "\u0645\u0644\u0627\u062d\u0642\u0647": {
+            "index": 609,
+            "frequency": 11
+        },
+        "\u0645\u0644\u062d": {
+            "index": 610,
+            "frequency": 22
+        },
+        "\u0645\u0644\u0643": {
+            "index": 611,
+            "frequency": 22
+        },
+        "\u0645\u0644\u0643\u064a\u0647": {
+            "index": 612,
+            "frequency": 11
+        },
+        "\u0645\u0645\u062a\u0627\u0632": {
+            "index": 613,
+            "frequency": 110
+        },
+        "\u0645\u0645\u0643\u0646": {
+            "index": 614,
+            "frequency": 44
+        },
+        "\u0645\u0645\u0646\u0648\u0639": {
+            "index": 615,
+            "frequency": 88
+        },
+        "\u0645\u0646\u0632\u0644": {
+            "index": 616,
+            "frequency": 419
+        },
+        "\u0645\u0646\u0637\u0642\u0647": {
+            "index": 617,
+            "frequency": 44
+        },
+        "\u0645\u0646\u0642\u0637": {
+            "index": 618,
+            "frequency": 33
+        },
+        "\u0645\u0647\u0627\u0631\u0647": {
+            "index": 619,
+            "frequency": 11
+        },
+        "\u0645\u0647\u0645": {
+            "index": 620,
+            "frequency": 11
+        },
+        "\u0645\u0648\u062a": {
+            "index": 621,
+            "frequency": 79
+        },
+        "\u0645\u0648\u0632": {
+            "index": 622,
+            "frequency": 22
+        },
+        "\u0645\u0648\u0632\u0647": {
+            "index": 623,
+            "frequency": 66
+        },
+        "\u0645\u0648\u0633\u064a\u0642\u0649": {
+            "index": 624,
+            "frequency": 33
+        },
+        "\u0645\u0648\u0636\u0648\u0639": {
+            "index": 625,
+            "frequency": 11
+        },
+        "\u0645\u0648\u0639\u062f": {
+            "index": 626,
+            "frequency": 11
+        },
+        "\u0645\u0648\u0642\u0639": {
+            "index": 627,
+            "frequency": 121
+        },
+        "\u0645\u0648\u0644\u0648\u062f": {
+            "index": 628,
+            "frequency": 33
+        },
+        "\u0646": {
+            "index": 629,
+            "frequency": 22
+        },
+        "\u0646\u0627\u062f\u0644": {
+            "index": 630,
+            "frequency": 11
+        },
+        "\u0646\u0627\u0631": {
+            "index": 631,
+            "frequency": 32
+        },
+        "\u0646\u0627\u0631\u063a\u0631\u0641\u0647": {
+            "index": 632,
+            "frequency": 11
+        },
+        "\u0646\u0627\u0641\u0630\u0647": {
+            "index": 633,
+            "frequency": 11
+        },
+        "\u0646\u062d\u064a\u0641": {
+            "index": 634,
+            "frequency": 22
+        },
+        "\u0646\u062f\u0627\u0621": {
+            "index": 635,
+            "frequency": 33
+        },
+        "\u0646\u0633\u0628\u0647": {
+            "index": 636,
+            "frequency": 32
+        },
+        "\u0646\u0633\u064a\u0627\u0646": {
+            "index": 637,
+            "frequency": 22
+        },
+        "\u0646\u0635\u0641": {
+            "index": 638,
+            "frequency": 34
+        },
+        "\u0646\u0638\u0627\u0631\u0647": {
+            "index": 639,
+            "frequency": 22
+        },
+        "\u0646\u0638\u0631": {
+            "index": 640,
+            "frequency": 22
+        },
+        "\u0646\u0638\u064a\u0641": {
+            "index": 641,
+            "frequency": 44
+        },
+        "\u0646\u0639\u0645": {
+            "index": 642,
+            "frequency": 66
+        },
+        "\u0646\u0641\u0633\u064a": {
+            "index": 643,
+            "frequency": 11
+        },
+        "\u0646\u0642\u0644": {
+            "index": 644,
+            "frequency": 11
+        },
+        "\u0646\u0647\u0627\u064a\u0647": {
+            "index": 645,
+            "frequency": 44
+        },
+        "\u0646\u0648\u0645": {
+            "index": 646,
+            "frequency": 120
+        },
+        "\u0646\u064a\u0647": {
+            "index": 647,
+            "frequency": 11
+        },
+        "\u0647": {
+            "index": 648,
+            "frequency": 22
+        },
+        "\u0647\u0627\u062a\u0641": {
+            "index": 649,
+            "frequency": 88
+        },
+        "\u0647\u0630\u0627": {
+            "index": 650,
+            "frequency": 77
+        },
+        "\u0647\u0636\u0645\u064a": {
+            "index": 651,
+            "frequency": 11
+        },
+        "\u0647\u0646\u0627": {
+            "index": 652,
+            "frequency": 22
+        },
+        "\u0647\u0648": {
+            "index": 653,
+            "frequency": 2336
+        },
+        "\u0647\u0648\u0627\u0621": {
+            "index": 654,
+            "frequency": 11
+        },
+        "\u0647\u0648\u064a\u0647": {
+            "index": 655,
+            "frequency": 55
+        },
+        "\u0648": {
+            "index": 656,
+            "frequency": 33
+        },
+        "\u0648\u0627\u062d\u062f": {
+            "index": 657,
+            "frequency": 34
+        },
+        "\u0648\u0627\u0636\u062d": {
+            "index": 658,
+            "frequency": 33
+        },
+        "\u0648\u062c\u0647": {
+            "index": 659,
+            "frequency": 22
+        },
+        "\u0648\u062c\u0648\u0628": {
+            "index": 660,
+            "frequency": 185
+        },
+        "\u0648\u0631\u062f\u064a": {
+            "index": 661,
+            "frequency": 44
+        },
+        "\u0648\u0632\u0627\u0631\u0647": {
+            "index": 662,
+            "frequency": 22
+        },
+        "\u0648\u0635\u0644": {
+            "index": 663,
+            "frequency": 11
+        },
+        "\u0648\u0635\u0648\u0644": {
+            "index": 664,
+            "frequency": 199
+        },
+        "\u0648\u0636\u0648\u0621": {
+            "index": 665,
+            "frequency": 33
+        },
+        "\u0648\u0641\u0627\u0647": {
+            "index": 666,
+            "frequency": 9
+        },
+        "\u0648\u0642\u062a": {
+            "index": 667,
+            "frequency": 362
+        },
+        "\u0648\u0644\u0627\u062f\u0647": {
+            "index": 668,
+            "frequency": 55
+        },
+        "\u0648\u0644\u062f": {
+            "index": 669,
+            "frequency": 540
+        },
+        "\u0648\u0644\u062f_\u0639\u0645": {
+            "index": 670,
+            "frequency": 54
+        },
+        "\u064a": {
+            "index": 671,
+            "frequency": 55
+        },
+        "\u064a\u0643\u0631\u0647": {
+            "index": 672,
+            "frequency": 11
+        },
+        "\u064a\u0645\u064a\u0646": {
+            "index": 673,
+            "frequency": 11
+        },
+        "\u064a\u0648\u062c\u062f": {
+            "index": 674,
+            "frequency": 201
+        },
+        "\u064a\u0648\u0645": {
+            "index": 675,
+            "frequency": 131
+        }
+    }
+}
