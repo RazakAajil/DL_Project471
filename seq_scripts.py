@@ -10,6 +10,11 @@ from tqdm import tqdm
 import torch.nn.functional as F
 import matplotlib.pyplot as plt
 import cv2
+
+# [MLE FIX] Import AMP for memory optimization
+from torch.cuda.amp import autocast, GradScaler
+
+# [MLE FIX] Use the working evaluation import (removes the broken python_evaluation import)
 from evaluation.slr_eval.wer_calculation import evaluate
 
 def seq_train(loader, model, optimizer, device, epoch_idx, recoder):
@@ -17,18 +22,27 @@ def seq_train(loader, model, optimizer, device, epoch_idx, recoder):
     loss_value = []
     clr = [group['lr'] for group in optimizer.optimizer.param_groups]
 
+    # [MLE FIX] Initialize Scaler
+    scaler = GradScaler()
+
     for batch_idx, data in enumerate(tqdm(loader)):
         data = device.dict_data_to_device(data)
-        ret_dict = model(data)
+        
+        # [MLE FIX] Automatic Mixed Precision (AMP)
+        with autocast():
+            ret_dict = model(data)
+            loss, loss_details = model.get_loss(ret_dict, data)
 
-        loss, loss_details = model.get_loss(ret_dict, data)
         if np.isinf(loss.item()) or np.isnan(loss.item()):
             print(data['origin_info'])
             continue
-        optimizer.zero_grad()
-        loss.backward()
         
-        optimizer.step()
+        optimizer.zero_grad()
+        
+        # [MLE FIX] Scaled backward pass
+        scaler.scale(loss).backward()
+        scaler.step(optimizer.optimizer)
+        scaler.update()
 
         loss_value.append(loss.item())
         if batch_idx % recoder.log_interval == 0:
@@ -39,7 +53,17 @@ def seq_train(loader, model, optimizer, device, epoch_idx, recoder):
                 "\t"
                 + ", ".join([f"{k}: {v.item():.2f}" for k, v in loss_details.items()])
             )
+        
+        # [MLE FIX] aggressive garbage collection
+        del ret_dict
+        del loss
+        del loss_details
+        del data
+    
     optimizer.scheduler.step()
+    # [MLE FIX] Clear cache
+    torch.cuda.empty_cache()
+    
     recoder.print_log('\tMean training loss: {:.10f}.'.format(np.mean(loss_value)))
     return loss_value
 
@@ -59,6 +83,11 @@ def seq_eval(
         total_info += [file_name.split("|")[0] for file_name in data['origin_info']]
         total_sent_fusion += ret_dict['recognized_sents_fusion']
         total_sent_conv_fusion += ret_dict['conv_sents_fusion']
+        
+        # [MLE FIX] Free memory
+        del data
+        del ret_dict
+
     python_eval = True if evaluate_tool == "python" else False
     write2file(
         work_dir + "output-hypothesis-fusion-{}.ctm".format(mode), total_info, total_sent_fusion
@@ -66,6 +95,10 @@ def seq_eval(
     write2file(
         work_dir + "output-hypothesis-conv-fusion-{}.ctm".format(mode), total_info, total_sent_conv_fusion
     )
+    
+    # [MLE FIX] Clear cache
+    torch.cuda.empty_cache()
+
     if mode == 'test':
         csv_file = f'{work_dir}test.csv'
         if task == 'us':
@@ -117,7 +150,8 @@ def seq_eval(
             )
         except:
             print("Unexpected error:", sys.exc_info()[0])
-            lstm_ret = 100.0
+            lstm_ret_fusion = 100.0
+            conv_ret_fusion = 100.0
         finally:
             pass
         recoder.print_log(

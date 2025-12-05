@@ -59,15 +59,16 @@ class TwoStream_Cosign(nn.Module):
             setattr(self, f'classifier_{name}', classifier)
 
         self.loss = {
-            'ctc': torch.nn.CTCLoss(reduction='none', zero_infinity=False),
-            'kl': KLdis()
+          'ctc': torch.nn.CTCLoss(reduction='none', zero_infinity=True),            'kl': KLdis()
         }
         self.loss_weights = loss_weights
         self.norm_scale = norm_scale
 
     def backward_hook(self, module, grad_input, grad_output):
         for g in grad_input:
-            g[g != g] = 0
+          if g is not None:  # Safety check
+            g[torch.isnan(g)] = 0
+            g[torch.isinf(g)] = 0 # Nuke Infinity too
 
     def forward_contextual(self, framewise, len_x, conv1d_module, contextual_module, classifier):
         conv1d_ret = conv1d_module(framewise.transpose(1,2), len_x)
