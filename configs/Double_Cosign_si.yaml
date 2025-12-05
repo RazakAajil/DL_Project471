@@ -55,8 +55,8 @@ model_args:
 
 # optim args
 
-batch_size: 4
-test_batch_size: 4
+batch_size: 2
+test_batch_size: 2 
 optimizer_args:
   base_lr: 0.0002
   learning_ratio: 1
