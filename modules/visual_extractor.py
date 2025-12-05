@@ -34,8 +34,8 @@ def generate_mask(shape, part_num, clip_length, ratio, dim):
             mask_q[position[0][i], position[1][i], position[2][i]] = 1
         else:
             mask_k[position[0][i], position[1][i], position[2][i]] = 1
-    mask_q = mask_q.astype(np.bool8)
-    mask_k = mask_k.astype(np.bool8)
+    mask_q = mask_q.astype(np.bool)
+    mask_k = mask_k.astype(np.bool)
 
     mask_cat_q = torch.ones(shape)
     mask_cat_k = torch.ones(shape)
